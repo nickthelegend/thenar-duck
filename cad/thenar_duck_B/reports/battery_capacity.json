@@ -1,0 +1,11 @@
+{
+  "capacity_mm": [
+    140,
+    50,
+    32
+  ],
+  "pad_mm": 2,
+  "scope": "Maximum pack box against all exported printed and hardware solids in neutral; excludes wires and fasteners",
+  "candidate_pairs": 1,
+  "contacts": []
+}

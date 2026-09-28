@@ -1,0 +1,648 @@
+[
+  {
+    "name": "roll_bearing_1",
+    "bbox": [
+      [
+        -35.0,
+        19.0,
+        175.815
+      ],
+      [
+        -3.0,
+        51.0,
+        182.815
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "upstream nominal STS3215 mesh; user C018 fit coupon required"
+  },
+  {
+    "name": "roll_bearing_2",
+    "bbox": [
+      [
+        -35.0,
+        -51.0,
+        175.815
+      ],
+      [
+        -3.0,
+        -19.0,
+        182.815
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "upstream nominal STS3215 mesh; user C018 fit coupon required"
+  },
+  {
+    "name": "ST3215_C018_01",
+    "bbox": [
+      [
+        -11.362,
+        -18.5,
+        251.088
+      ],
+      [
+        13.362,
+        19.3,
+        296.312
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_02",
+    "bbox": [
+      [
+        -54.112,
+        -47.362,
+        241.99
+      ],
+      [
+        -8.888,
+        -22.638,
+        279.79
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_03",
+    "bbox": [
+      [
+        -54.112,
+        22.638,
+        241.99
+      ],
+      [
+        -8.888,
+        47.362,
+        279.79
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_04",
+    "bbox": [
+      [
+        -37.6,
+        22.638,
+        186.013
+      ],
+      [
+        0.2,
+        47.362,
+        231.237
+      ]
+    ],
+    "body": "hip_roll_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_05",
+    "bbox": [
+      [
+        -45.172,
+        71.5,
+        183.763
+      ],
+      [
+        0.052,
+        109.3,
+        208.487
+      ]
+    ],
+    "body": "left_roll_to_pitch_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_06",
+    "bbox": [
+      [
+        -47.422,
+        71.4,
+        107.363
+      ],
+      [
+        -22.698,
+        109.2,
+        152.587
+      ]
+    ],
+    "body": "knee_and_ankle_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_07",
+    "bbox": [
+      [
+        -47.422,
+        71.3,
+        28.713
+      ],
+      [
+        -22.698,
+        109.1,
+        73.937
+      ]
+    ],
+    "body": "knee_and_ankle_assembly_2",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_08",
+    "bbox": [
+      [
+        -11.362,
+        -18.5,
+        317.088
+      ],
+      [
+        13.362,
+        19.3,
+        362.312
+      ]
+    ],
+    "body": "neck_pitch_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_09",
+    "bbox": [
+      [
+        -9.112,
+        -12.262,
+        371.55
+      ],
+      [
+        36.112,
+        12.462,
+        409.35
+      ]
+    ],
+    "body": "neck_yaw_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "roll_bearing_3",
+    "bbox": [
+      [
+        -47.1,
+        -15.9,
+        374.05
+      ],
+      [
+        -40.1,
+        16.1,
+        406.05
+      ]
+    ],
+    "body": "head_assembly",
+    "status": "upstream nominal STS3215 mesh; user C018 fit coupon required"
+  },
+  {
+    "name": "ST3215_C018_10",
+    "bbox": [
+      [
+        41.8,
+        -12.262,
+        379.938
+      ],
+      [
+        79.6,
+        12.462,
+        425.162
+      ]
+    ],
+    "body": "head_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_11",
+    "bbox": [
+      [
+        -37.6,
+        -47.362,
+        186.013
+      ],
+      [
+        0.2,
+        -22.638,
+        231.237
+      ]
+    ],
+    "body": "hip_roll_assembly_2",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_12",
+    "bbox": [
+      [
+        -45.172,
+        -109.3,
+        183.763
+      ],
+      [
+        0.052,
+        -71.5,
+        208.487
+      ]
+    ],
+    "body": "right_roll_to_pitch_assembly",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_13",
+    "bbox": [
+      [
+        -47.422,
+        -109.8,
+        107.363
+      ],
+      [
+        -22.698,
+        -72.0,
+        152.587
+      ]
+    ],
+    "body": "knee_and_ankle_assembly_3",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "ST3215_C018_14",
+    "bbox": [
+      [
+        -47.422,
+        -109.9,
+        28.713
+      ],
+      [
+        -22.698,
+        -72.1,
+        73.937
+      ]
+    ],
+    "body": "knee_and_ankle_assembly_4",
+    "status": "Waveshare vendor STEP in the verified reference case frame; physical horn stack may vary by revision"
+  },
+  {
+    "name": "BK_3S_BATTERY_MAX_RESERVED",
+    "bbox": [
+      [
+        -185.0,
+        -26.0,
+        182.315
+      ],
+      [
+        -49.0,
+        26.0,
+        224.315
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "RESERVED CAPACITY ONLY; actual battery dimensions unknown"
+  },
+  {
+    "name": "PDB_MAX_RESERVED",
+    "bbox": [
+      [
+        -173.0,
+        -22.0,
+        237.0
+      ],
+      [
+        -117.0,
+        22.0,
+        257.0
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "56x44x20 reserved; exact PDB unconfirmed; insulating 4mm standoffs required"
+  },
+  {
+    "name": "UBEC_MAX_RESERVED",
+    "bbox": [
+      [
+        -173.5,
+        26.0,
+        237.0
+      ],
+      [
+        -128.5,
+        48.0,
+        252.0
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "45x22x15 reserved; secure with two ties; do not clamp components"
+  },
+  {
+    "name": "FUSE_HOLDER_MAX_RESERVED",
+    "bbox": [
+      [
+        -173.5,
+        -48.0,
+        237.0
+      ],
+      [
+        -128.5,
+        -24.0,
+        261.0
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "45x24x24 reserved; exact holder unconfirmed; fuse pulls upward after Pi tray removal"
+  },
+  {
+    "name": "Waveshare_Adapter_A_PCB",
+    "bbox": [
+      [
+        -106.5,
+        -16.5,
+        237.0
+      ],
+      [
+        -64.5,
+        16.5,
+        238.6
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "42x33 outline, 37x28 holes; exact board revision confirmation pending"
+  },
+  {
+    "name": "Adapter_components_envelope",
+    "bbox": [
+      [
+        -103.0,
+        -12.0,
+        238.6
+      ],
+      [
+        -67.0,
+        12.0,
+        252.0
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "nominal envelope"
+  },
+  {
+    "name": "Raspberry_Pi_4B_PCB",
+    "bbox": [
+      [
+        -183.0,
+        -28.0,
+        274.0
+      ],
+      [
+        -98.0,
+        28.0,
+        275.6
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "Official mechanical drawing; bare board, not a case"
+  },
+  {
+    "name": "Pi4_USB2",
+    "bbox": [
+      [
+        -116.0,
+        0.0,
+        275.6
+      ],
+      [
+        -95.0,
+        15.0,
+        291.6
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "nominal envelope"
+  },
+  {
+    "name": "Pi4_USB3",
+    "bbox": [
+      [
+        -116.0,
+        -18.0,
+        275.6
+      ],
+      [
+        -95.0,
+        -3.0,
+        291.6
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "nominal envelope"
+  },
+  {
+    "name": "Pi4_Ethernet",
+    "bbox": [
+      [
+        -116.0,
+        16.0,
+        275.6
+      ],
+      [
+        -95.0,
+        29.0,
+        289.1
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "nominal envelope"
+  },
+  {
+    "name": "Pi4_GPIO",
+    "bbox": [
+      [
+        -176.0,
+        22.0,
+        275.6
+      ],
+      [
+        -124.0,
+        27.0,
+        284.1
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "nominal envelope"
+  },
+  {
+    "name": "Pi4_USB_C_power",
+    "bbox": [
+      [
+        -178.0,
+        -30.0,
+        275.6
+      ],
+      [
+        -166.0,
+        -23.0,
+        278.8
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "nominal envelope"
+  },
+  {
+    "name": "DFRobot_SEN0374_PCB",
+    "bbox": [
+      [
+        -52.5,
+        -10.5,
+        289.0
+      ],
+      [
+        -33.5,
+        10.5,
+        290.6
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "19x21 board; two holes x=2.5 from edge, y=2.5/18.5; official diagram"
+  },
+  {
+    "name": "IMU_header_-9",
+    "bbox": [
+      [
+        -46.5,
+        -10.3,
+        290.6
+      ],
+      [
+        -34.5,
+        -7.7,
+        300.0
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "nominal envelope"
+  },
+  {
+    "name": "IMU_header_9",
+    "bbox": [
+      [
+        -46.5,
+        7.7,
+        290.6
+      ],
+      [
+        -34.5,
+        10.3,
+        300.0
+      ]
+    ],
+    "body": "trunk_assembly",
+    "status": "nominal envelope"
+  },
+  {
+    "name": "WS2812_ring_R",
+    "bbox": [
+      [
+        101.0,
+        -70.0,
+        375.0
+      ],
+      [
+        102.6,
+        -26.0,
+        419.0
+      ]
+    ],
+    "body": "head_assembly",
+    "status": "44mm nominal example only; max socket46mm; measure actual ring"
+  },
+  {
+    "name": "WS2812_ring_L",
+    "bbox": [
+      [
+        101.0,
+        26.0,
+        375.0
+      ],
+      [
+        102.6,
+        70.0,
+        419.0
+      ]
+    ],
+    "body": "head_assembly",
+    "status": "44mm nominal example only; max socket46mm; measure actual ring"
+  },
+  {
+    "name": "KW10_L_toe",
+    "bbox": [
+      [
+        1.0,
+        86.5,
+        17.0
+      ],
+      [
+        13.8,
+        92.3,
+        23.5
+      ]
+    ],
+    "body": "foot_assembly",
+    "status": "Daier KW10-DZ2P075 nominal; operating height requires bench adjustment"
+  },
+  {
+    "name": "KW10_L_heel",
+    "bbox": [
+      [
+        -63.8,
+        86.5,
+        17.0
+      ],
+      [
+        -51.0,
+        92.3,
+        23.5
+      ]
+    ],
+    "body": "foot_assembly",
+    "status": "Daier KW10-DZ2P075 nominal; operating height requires bench adjustment"
+  },
+  {
+    "name": "KW10_R_toe",
+    "bbox": [
+      [
+        1.0,
+        -92.3,
+        17.0
+      ],
+      [
+        13.8,
+        -86.5,
+        23.5
+      ]
+    ],
+    "body": "foot_assembly_2",
+    "status": "Daier KW10-DZ2P075 nominal; operating height requires bench adjustment"
+  },
+  {
+    "name": "KW10_R_heel",
+    "bbox": [
+      [
+        -63.8,
+        -92.3,
+        17.0
+      ],
+      [
+        -51.0,
+        -86.5,
+        23.5
+      ]
+    ],
+    "body": "foot_assembly_2",
+    "status": "Daier KW10-DZ2P075 nominal; operating height requires bench adjustment"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "component": "BK 4200mAh 3S",
+    "mount": "A08_battery_sled",
+    "installation": "Remove roof and upper trays; lower pack vertically. For later swaps remove rear cover and release both straps.",
+    "clearance": "1 mm per side at maximum 52 mm width; 2 mm foam pad; lead exit and connector bend space require actual pack measurement",
+    "status": "HOLD actual dimensions"
+  },
+  {
+    "component": "Raspberry Pi 4B",
+    "mount": "A10_Pi4B_removable_tray",
+    "installation": "Mount Pi to tray outside robot. Connect short USB leads. Lower tray through roof opening, then fix four M3 screws.",
+    "clearance": "5mm underside, side I/O window, open USB end, microSD notch, 29.4mm PCB-top to roof",
+    "status": "Drawing checked; physical cables/cooling unconfirmed"
+  },
+  {
+    "component": "DFRobot SEN0374",
+    "mount": "A11_SEN0374_fixed_IMU_bridge",
+    "installation": "Fit two M2 screws and nuts on bench, then bolt bridge to rack. Headers soldered before installation.",
+    "clearance": "3mm under board; header space to z300; full vertical removal after roof removal",
+    "status": "Manufacturer drawing checked; physical header style pending"
+  },
+  {
+    "component": "4 KW10-DZ2P075 foot switches",
+    "mount": "A15 cassettes + A17 plungers",
+    "installation": "Solder and insulate wires, insert switches from top, install M2 bolts through slots. Insert plungers from underneath, then fit TPU soles. Adjust switch height with meter.",
+    "clearance": "12.8x5.8x6.5 case; 6.5 hole pitch; 3mm vertical adjustment; 1.25mm plunger hard-stop travel",
+    "status": "Catalogue checked; physical actuation calibration REQUIRED"
+  }
+]

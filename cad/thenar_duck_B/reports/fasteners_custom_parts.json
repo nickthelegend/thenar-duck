@@ -1,0 +1,281 @@
+[
+  {
+    "joint": "A15_KW10_cassette_L_toe to foot",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; inserts open upward at z16; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "A15_KW10_cassette_L_toe switch pins",
+    "quantity": 2,
+    "thread": "M2",
+    "length_mm": 14,
+    "clamped_stack_mm": 11.2,
+    "engagement_mm": 2.8,
+    "notes": "Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+  },
+  {
+    "joint": "A15_KW10_cassette_L_toe cover",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 6,
+    "clamped_stack_mm": 2.5,
+    "engagement_mm": 3.5,
+    "notes": "0.5mm washers"
+  },
+  {
+    "joint": "A15_KW10_cassette_L_heel to foot",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; inserts open upward at z16; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "A15_KW10_cassette_L_heel switch pins",
+    "quantity": 2,
+    "thread": "M2",
+    "length_mm": 14,
+    "clamped_stack_mm": 11.2,
+    "engagement_mm": 2.8,
+    "notes": "Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+  },
+  {
+    "joint": "A15_KW10_cassette_L_heel cover",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 6,
+    "clamped_stack_mm": 2.5,
+    "engagement_mm": 3.5,
+    "notes": "0.5mm washers"
+  },
+  {
+    "joint": "A15_KW10_cassette_R_toe to foot",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; inserts open upward at z16; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "A15_KW10_cassette_R_toe switch pins",
+    "quantity": 2,
+    "thread": "M2",
+    "length_mm": 14,
+    "clamped_stack_mm": 11.2,
+    "engagement_mm": 2.8,
+    "notes": "Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+  },
+  {
+    "joint": "A15_KW10_cassette_R_toe cover",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 6,
+    "clamped_stack_mm": 2.5,
+    "engagement_mm": 3.5,
+    "notes": "0.5mm washers"
+  },
+  {
+    "joint": "A15_KW10_cassette_R_heel to foot",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; inserts open upward at z16; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "A15_KW10_cassette_R_heel switch pins",
+    "quantity": 2,
+    "thread": "M2",
+    "length_mm": 14,
+    "clamped_stack_mm": 11.2,
+    "engagement_mm": 2.8,
+    "notes": "Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+  },
+  {
+    "joint": "A15_KW10_cassette_R_heel cover",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 6,
+    "clamped_stack_mm": 2.5,
+    "engagement_mm": 3.5,
+    "notes": "0.5mm washers"
+  },
+  {
+    "joint": "Chassis to trunk_bottom",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 6,
+    "clamped_stack_mm": 3,
+    "engagement_mm": 3,
+    "notes": "Existing inserts open downward; no washer with this length"
+  },
+  {
+    "joint": "Side frames to chassis",
+    "quantity": 6,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1 mm flat washer; 4 mm inserts; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "Side covers",
+    "quantity": 8,
+    "thread": "M3",
+    "length_mm": 6,
+    "clamped_stack_mm": 2.5,
+    "engagement_mm": 3.5,
+    "notes": "0.5 mm washers; remove covers for battery strap access"
+  },
+  {
+    "joint": "Front and rear fascias",
+    "quantity": 8,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1 mm washers; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "Roof",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 6,
+    "clamped_stack_mm": 3,
+    "engagement_mm": 3,
+    "notes": "0.5 mm washers"
+  },
+  {
+    "joint": "Battery sled",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washer; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "Power pod to rear panel",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 10,
+    "clamped_stack_mm": 7,
+    "engagement_mm": 3,
+    "notes": "No washer for7mm flange stack"
+  },
+  {
+    "joint": "Power pod lid",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washer; interchangeable cutout panels; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "Power rack to side ledges",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "PDB through bolts",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 12,
+    "clamped_stack_mm": 9.1,
+    "engagement_mm": 2.9,
+    "notes": "Four M3 nuts; 3mm deck+4mm spacer+1.6PCB+0.5washer"
+  },
+  {
+    "joint": "Adapter PCB",
+    "quantity": 4,
+    "thread": "M2.5",
+    "length_mm": 12,
+    "clamped_stack_mm": 8.6,
+    "engagement_mm": 3.4,
+    "notes": "Four M2.5 nuts;4mm standoffs"
+  },
+  {
+    "joint": "Pi4 PCB to tray",
+    "quantity": 4,
+    "thread": "M2.5",
+    "length_mm": 12,
+    "clamped_stack_mm": 9.6,
+    "engagement_mm": 2.4,
+    "notes": "Four M2.5 nuts;5mm standoff;0.5mm washers require longer screw"
+  },
+  {
+    "joint": "Pi tray to rack pillars",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "IMU PCB",
+    "quantity": 2,
+    "thread": "M2",
+    "length_mm": 10,
+    "clamped_stack_mm": 7.6,
+    "engagement_mm": 2.4,
+    "notes": "Two M2 nuts under top bridge;3mm standoffs"
+  },
+  {
+    "joint": "IMU bridge to rack",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 10,
+    "clamped_stack_mm": 6.5,
+    "engagement_mm": 3.5,
+    "notes": "Two M3 nuts;0.5mm washers; accessible after Pi removal"
+  },
+  {
+    "joint": "Eye retaining caps",
+    "quantity": 8,
+    "thread": "M3",
+    "length_mm": 6,
+    "clamped_stack_mm": 3,
+    "engagement_mm": 3,
+    "notes": "0.5mm washers"
+  },
+  {
+    "joint": "Matrix PCB carrier",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; insert openings facefront; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "Matrix bezel",
+    "quantity": 4,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; 0.5mm pilot-bottom allowance"
+  },
+  {
+    "joint": "Status pixel carrier",
+    "quantity": 2,
+    "thread": "M3",
+    "length_mm": 8,
+    "clamped_stack_mm": 4,
+    "engagement_mm": 4,
+    "notes": "1mm washers; 0.5mm pilot-bottom allowance"
+  }
+]

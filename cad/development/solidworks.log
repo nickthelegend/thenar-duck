@@ -1,0 +1,76 @@
+Importing A01_chassis_base
+Importing A02_side_frame_L
+Importing A02_side_frame_R
+Importing A03_side_cover_L
+Importing A03_side_cover_R
+Importing A04_front_fascia
+Importing A05_rear_service_cover
+Importing A06_switch_plate_BLANK
+Importing A07_lift_off_roof
+Importing A08_battery_sled
+Importing A09_power_and_compute_rack
+Importing A11_SEN0374_fixed_IMU_bridge
+Importing A12_eye_retainer_L
+Importing A12_eye_retainer_R
+Importing A13_eye_depth_spacer_L
+Importing A13_eye_depth_spacer_R
+Importing A14_eye_diffuser_L
+Importing A14_eye_diffuser_R
+Importing A15_KW10_cassette_L_heel
+Importing A15_KW10_cassette_L_toe
+Importing A15_KW10_cassette_R_heel
+Importing A15_KW10_cassette_R_toe
+Importing A16_switch_cover_L_heel
+Importing A16_switch_cover_L_toe
+Importing A16_switch_cover_R_heel
+Importing A16_switch_cover_R_toe
+Importing A17_ground_plunger_L_heel
+Importing A17_ground_plunger_L_toe
+Importing A17_ground_plunger_R_heel
+Importing A17_ground_plunger_R_toe
+Importing foot_bottom_pla_1
+Importing foot_bottom_pla_2
+Importing foot_bottom_tpu_1
+Importing foot_bottom_tpu_2
+Importing foot_side_1
+Importing foot_side_2
+Importing foot_top_1
+Importing foot_top_2
+Importing head_1
+Importing head_bot_sheet_1
+Importing head_pitch_to_yaw_1
+Importing head_roll_mount_1
+Importing head_yaw_to_roll_1
+Importing left_cache_1
+Importing left_knee_to_ankle_left_sheet_1
+Importing left_knee_to_ankle_left_sheet_2
+Importing left_knee_to_ankle_left_sheet_3
+Importing left_knee_to_ankle_left_sheet_4
+Importing left_knee_to_ankle_right_sheet_1
+Importing left_knee_to_ankle_right_sheet_2
+Importing left_knee_to_ankle_right_sheet_3
+Importing left_knee_to_ankle_right_sheet_4
+Importing left_roll_to_pitch_1
+Importing leg_spacer_1
+Importing leg_spacer_2
+Importing leg_spacer_3
+Importing leg_spacer_4
+Importing neck_left_sheet_1
+Importing neck_right_sheet_1
+Importing right_cache_1
+Importing right_roll_to_pitch_1
+Importing roll_motor_bottom_1
+Importing roll_motor_bottom_2
+Importing roll_motor_top_1
+Importing roll_motor_top_2
+Importing trunk_bottom_1
+Importing trunk_top_1
+Traceback (most recent call last):
+  File "D:\Project\thenar-duck\cad\export_solidworks.py", line 22, in <module>
+    if p['status']=='saved':a.add(p['path'],rot_x(-90),(0,0,0),fixed=True,key=p['part'])
+                            ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\thenar-duck\cad\swlib.py", line 495, in add
+    self.sw.app.OpenDoc6(part_path, 1, 1, "", errs, warns)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<COMObject SldWorks.Application>", line 2, in OpenDoc6
+pywintypes.com_error: (-2147023170, 'The remote procedure call failed.', None, None)

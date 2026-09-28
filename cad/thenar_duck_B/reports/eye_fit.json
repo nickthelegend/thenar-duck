@@ -1,0 +1,5 @@
+{
+  "scope": "Exact neutral head/socket/retainer/sleeve/diffuser/default ring intersections; excludes wires and LED packages",
+  "pairs_tested": 10,
+  "contacts": []
+}

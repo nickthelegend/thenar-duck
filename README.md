@@ -6,6 +6,8 @@ A 14-servo duck with a Raspberry Pi 4B, a 3S battery, a separately mounted DFRob
 
 ## 1. Files to open
 
+Large CAD, 3MF and video files are stored with Git LFS. Install Git LFS before cloning and run `git lfs pull` if a checkout contains pointer files. The README links open the corresponding files on GitHub.
+
 | File | Purpose |
 |---|---|
 | [All-parts Bambu Studio project](cad/thenar_duck_B/bambu/Thenar_Duck_B_P1S_ALL_PARTS.3mf) | Full-size, named, colored parts on 19 P1S plates. Open **as a project**, retaining settings and plate arrangement. |

@@ -1,0 +1,70 @@
+{
+  "release": "Digital prototype: published dimensions and adjustable mounts; physical fitting and powered validation not performed",
+  "active_print_files": 91,
+  "robot_print_files": 79,
+  "alternative_files": 6,
+  "coupon_files": 6,
+  "all_watertight": true,
+  "all_positive_volume": true,
+  "all_fit_256_cube": true,
+  "custom_intersections": [],
+  "servo_neutral_fit": {
+    "scope": "Exact solid intersection of vendor servo geometry and printed parts in neutral pose; excludes wires, screw heads, tolerances and moving insertion paths",
+    "pairs_tested": 64,
+    "contacts": []
+  },
+  "eye_fit": {
+    "scope": "Exact neutral head/socket/retainer/sleeve/diffuser/default ring intersections; excludes wires and LED packages",
+    "pairs_tested": 10,
+    "contacts": []
+  },
+  "motion": {
+    "sampled": 124,
+    "no_contact_found": 122,
+    "contact_poses": {
+      "neck_pitch_50.8": 13,
+      "neck_pitch_65.0": 31
+    },
+    "limitations": [
+      "Does not prove continuous or untested combined joint clearance",
+      "No flexible cable deformation, screw heads, or tolerances",
+      "New torso parts AND reserved electronics versus moving assemblies; inherited core self-contact not certified"
+    ]
+  },
+  "solidworks": {
+    "saved": true,
+    "component_count": 123,
+    "expected_count": 123,
+    "missing": [],
+    "extra": [],
+    "first_transform": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      6.123233995736766e-17,
+      -1.0,
+      0.0,
+      1.0,
+      6.123233995736766e-17,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "maximum_battery_capacity": {
+    "capacity_mm": [
+      140,
+      50,
+      32
+    ],
+    "pad_mm": 2,
+    "scope": "Maximum pack box against all exported printed and hardware solids in neutral; excludes wires and fasteners",
+    "candidate_pairs": 1,
+    "contacts": []
+  }
+}

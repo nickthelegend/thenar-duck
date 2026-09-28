@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "trunk_bottom_1",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "trunk_top_1",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "roll_motor_bottom_1",
+    "body": "hip_roll_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "roll_motor_top_1",
+    "body": "hip_roll_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_roll_to_pitch_1",
+    "body": "left_roll_to_pitch_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_cache_1",
+    "body": "knee_and_ankle_assembly",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "leg_spacer_1",
+    "body": "knee_and_ankle_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_knee_to_ankle_right_sheet_1",
+    "body": "knee_and_ankle_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_knee_to_ankle_left_sheet_1",
+    "body": "knee_and_ankle_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "leg_spacer_2",
+    "body": "knee_and_ankle_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_knee_to_ankle_right_sheet_2",
+    "body": "knee_and_ankle_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_knee_to_ankle_left_sheet_2",
+    "body": "knee_and_ankle_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "foot_side_1",
+    "body": "foot_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "foot_bottom_tpu_1",
+    "body": "foot_assembly",
+    "color": [
+      0.12,
+      0.12,
+      0.13
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "foot_bottom_pla_1",
+    "body": "foot_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "foot_top_1",
+    "body": "foot_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "neck_left_sheet_1",
+    "body": "neck_pitch_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "neck_right_sheet_1",
+    "body": "neck_pitch_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "head_pitch_to_yaw_1",
+    "body": "head_pitch_to_yaw",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "head_yaw_to_roll_1",
+    "body": "neck_yaw_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "head_bot_sheet_L",
+    "body": "head_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "head_bot_sheet_R",
+    "body": "head_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "head_1",
+    "body": "head_assembly",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "head_roll_mount_1",
+    "body": "head_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "roll_motor_bottom_2",
+    "body": "hip_roll_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "roll_motor_top_2",
+    "body": "hip_roll_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "right_roll_to_pitch_1",
+    "body": "right_roll_to_pitch_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "right_cache_1",
+    "body": "knee_and_ankle_assembly_3",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "leg_spacer_3",
+    "body": "knee_and_ankle_assembly_3",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_knee_to_ankle_right_sheet_3",
+    "body": "knee_and_ankle_assembly_3",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_knee_to_ankle_left_sheet_3",
+    "body": "knee_and_ankle_assembly_3",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "leg_spacer_4",
+    "body": "knee_and_ankle_assembly_4",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_knee_to_ankle_right_sheet_4",
+    "body": "knee_and_ankle_assembly_4",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "left_knee_to_ankle_left_sheet_4",
+    "body": "knee_and_ankle_assembly_4",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "foot_side_2",
+    "body": "foot_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "foot_bottom_tpu_2",
+    "body": "foot_assembly_2",
+    "color": [
+      0.12,
+      0.12,
+      0.13
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "foot_bottom_pla_2",
+    "body": "foot_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "foot_top_2",
+    "body": "foot_assembly_2",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A15_KW10_cassette_L_toe",
+    "body": "foot_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A16_switch_cover_L_toe",
+    "body": "foot_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A17_ground_plunger_L_toe",
+    "body": "foot_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A15_KW10_cassette_L_heel",
+    "body": "foot_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A16_switch_cover_L_heel",
+    "body": "foot_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A17_ground_plunger_L_heel",
+    "body": "foot_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A15_KW10_cassette_R_toe",
+    "body": "foot_assembly_2",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A16_switch_cover_R_toe",
+    "body": "foot_assembly_2",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A17_ground_plunger_R_toe",
+    "body": "foot_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A15_KW10_cassette_R_heel",
+    "body": "foot_assembly_2",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A16_switch_cover_R_heel",
+    "body": "foot_assembly_2",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "A17_ground_plunger_R_heel",
+    "body": "foot_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B01_chassis_base",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B02_side_frame_L",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B03_side_cover_L",
+    "body": "trunk_assembly",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B02_side_frame_R",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B03_side_cover_R",
+    "body": "trunk_assembly",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B04_front_fascia",
+    "body": "trunk_assembly",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B05_rear_service_cover",
+    "body": "trunk_assembly",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B07_lift_off_roof",
+    "body": "trunk_assembly",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B08_BK4200_battery_sled",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B06a_external_power_pod",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B06b_rocker_19p4x13p2",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C05_switch_30p2x22p2",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C05_switch_round_12p2",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C05_switch_round_20p2",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B19_PDB_insulating_spacer_1",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B19_PDB_insulating_spacer_2",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B19_PDB_insulating_spacer_3",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B19_PDB_insulating_spacer_4",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B09_power_and_compute_rack",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B10_Pi4B_removable_tray",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B11_SEN0374_side_bridge",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B12_eye_retainer_R",
+    "body": "head_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B13_eye_centering_sleeve_45_R",
+    "body": "head_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B14_eye_diffuser_R",
+    "body": "head_assembly",
+    "color": [
+      0.65,
+      0.84,
+      0.95
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B12_eye_retainer_L",
+    "body": "head_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B13_eye_centering_sleeve_45_L",
+    "body": "head_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B14_eye_diffuser_L",
+    "body": "head_assembly",
+    "color": [
+      0.65,
+      0.84,
+      0.95
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C06_eye_sleeve_37",
+    "body": "coupon",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C06_eye_sleeve_44",
+    "body": "coupon",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C06_eye_sleeve_46",
+    "body": "coupon",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B21_matrix_PCB_carrier",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B22_matrix_bezel",
+    "body": "trunk_assembly",
+    "color": [
+      0.91,
+      0.92,
+      0.9
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B23_matrix_diffuser",
+    "body": "trunk_assembly",
+    "color": [
+      0.65,
+      0.84,
+      0.95
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B24_status_pixel_carrier",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "B25_status_pixel_lightpipe",
+    "body": "trunk_assembly",
+    "color": [
+      0.65,
+      0.84,
+      0.95
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C01_M3_insert_and_clearance_coupon",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C02_6804_fit_32p0",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C02_6804_fit_32p1",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C02_6804_fit_32p2",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C03_servo_case_clearance_gauge",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "C04_servo_horn_pattern_gauge",
+    "body": "coupon",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "printed"
+  },
+  {
+    "name": "roll_bearing_1",
+    "body": "trunk_assembly",
+    "color": [
+      0.62,
+      0.65,
+      0.68
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "roll_bearing_2",
+    "body": "trunk_assembly",
+    "color": [
+      0.62,
+      0.65,
+      0.68
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_01",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_02",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_03",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_04",
+    "body": "hip_roll_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_05",
+    "body": "left_roll_to_pitch_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_06",
+    "body": "knee_and_ankle_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_07",
+    "body": "knee_and_ankle_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_08",
+    "body": "neck_pitch_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_09",
+    "body": "neck_yaw_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "roll_bearing_3",
+    "body": "head_assembly",
+    "color": [
+      0.62,
+      0.65,
+      0.68
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_10",
+    "body": "head_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_11",
+    "body": "hip_roll_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_12",
+    "body": "right_roll_to_pitch_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_13",
+    "body": "knee_and_ankle_assembly_3",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "ST3215_C018_14",
+    "body": "knee_and_ankle_assembly_4",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "KW10_L_toe",
+    "body": "foot_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "KW10_L_heel",
+    "body": "foot_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "KW10_R_toe",
+    "body": "foot_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "KW10_R_heel",
+    "body": "foot_assembly_2",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "BK4200_3S_published_137x44x27",
+    "body": "trunk_assembly",
+    "color": [
+      0.1,
+      0.21,
+      0.55
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Battery_rear_connector_keepout",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Fuse_holder_capacity_45x24x24",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Switch_terminal_reserved_volume",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "PDB_XT60_reference_PCB",
+    "body": "trunk_assembly",
+    "color": [
+      0.03,
+      0.36,
+      0.22
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "PDB_component_and_XT60_keepout",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "UBEC_adjustable_capacity",
+    "body": "trunk_assembly",
+    "color": [
+      0.04,
+      0.37,
+      0.68
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Waveshare_Adapter_A_PCB",
+    "body": "trunk_assembly",
+    "color": [
+      0.03,
+      0.36,
+      0.22
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Adapter_components_envelope",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Raspberry_Pi_4B_PCB",
+    "body": "trunk_assembly",
+    "color": [
+      0.03,
+      0.36,
+      0.22
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Pi4_USB2",
+    "body": "trunk_assembly",
+    "color": [
+      0.62,
+      0.65,
+      0.68
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Pi4_USB3",
+    "body": "trunk_assembly",
+    "color": [
+      0.62,
+      0.65,
+      0.68
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Pi4_Ethernet",
+    "body": "trunk_assembly",
+    "color": [
+      0.62,
+      0.65,
+      0.68
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Pi4_GPIO",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Pi4_USB_C_power",
+    "body": "trunk_assembly",
+    "color": [
+      0.62,
+      0.65,
+      0.68
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "DFRobot_SEN0374_PCB",
+    "body": "trunk_assembly",
+    "color": [
+      0.03,
+      0.36,
+      0.22
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "IMU_header_-150.5",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "IMU_header_-132.5",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "WS2812_ring_R",
+    "body": "head_assembly",
+    "color": [
+      0.03,
+      0.36,
+      0.22
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "WS2812_ring_L",
+    "body": "head_assembly",
+    "color": [
+      0.03,
+      0.36,
+      0.22
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "WS2812_matrix_PCB_30mm_example",
+    "body": "trunk_assembly",
+    "color": [
+      0.03,
+      0.36,
+      0.22
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "Status_pixel_required_10x10_carrier",
+    "body": "trunk_assembly",
+    "color": [
+      0.03,
+      0.36,
+      0.22
+    ],
+    "kind": "hardware"
+  },
+  {
+    "name": "WS2812B_2020_pixel",
+    "body": "trunk_assembly",
+    "color": [
+      0.12,
+      0.15,
+      0.18
+    ],
+    "kind": "hardware"
+  }
+]

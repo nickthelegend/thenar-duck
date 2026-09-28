@@ -1,0 +1,37 @@
+[
+  {
+    "component": "BK4200 3S",
+    "mount": "B08 sled / B05 rear lead bay",
+    "installation": "Thread straps, install pad, lower pack with leads rearward. Rear cover removes for horizontal swaps.",
+    "clearance": "140x50x32 pack capacity; published pack137x44x27; rear lead/connector bay35mm beyond nominal pack",
+    "status": "Manufacturer dimensions used; label-model inference recorded"
+  },
+  {
+    "component": "Main switch / fuse holder",
+    "mount": "B06 external service pod",
+    "installation": "Fit switch to matching lid on bench; strap fuse body into lower cradle; insulate terminals; mount lid last.",
+    "clearance": "Fuse45x24x24; switch+terminals24x22x30. Four complete lid variants supplied.",
+    "status": "Adjustable packaging, actual switch identity not asserted"
+  },
+  {
+    "component": "Pi4B",
+    "mount": "B10 tray",
+    "installation": "Fit board/cables on bench, lower tray through roof, fasten corners.",
+    "clearance": "5mm below board; open USB end;microSD notch;roof9.4mm above USB shells",
+    "status": "Published mechanical drawing"
+  },
+  {
+    "component": "DFRobot SEN0374",
+    "mount": "B11 side bridge",
+    "installation": "Fit M2 bolts and nuts on bench. Bolt bridge to rack; Pi tray clears it through side slot.",
+    "clearance": "PCB outside Pi footprint; header/plug height14.4mm; independent removal after Pi tray",
+    "status": "Published mechanical drawing"
+  },
+  {
+    "component": "PDB / UBEC / Waveshare adapter",
+    "mount": "B09 rack",
+    "installation": "Fit spacers, align slot-mounted PDB, tie UBEC to insulated saddle, bolt adapter on37x28 pattern before lowering rack.",
+    "clearance": "PDB pitch28..33;UBEC45x22x15;adapter42x33",
+    "status": "Published adapter/Matek reference; adjustable unmeasured clone/wrapped module"
+  }
+]

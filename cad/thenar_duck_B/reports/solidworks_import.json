@@ -1,0 +1,617 @@
+[
+  {
+    "part": "trunk_bottom_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\trunk_bottom_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "trunk_top_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\trunk_top_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "roll_motor_bottom_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\roll_motor_bottom_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "roll_motor_top_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\roll_motor_top_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_roll_to_pitch_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_roll_to_pitch_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_cache_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_cache_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "leg_spacer_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\leg_spacer_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_knee_to_ankle_right_sheet_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_knee_to_ankle_right_sheet_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_knee_to_ankle_left_sheet_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_knee_to_ankle_left_sheet_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "leg_spacer_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\leg_spacer_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_knee_to_ankle_right_sheet_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_knee_to_ankle_right_sheet_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_knee_to_ankle_left_sheet_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_knee_to_ankle_left_sheet_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "foot_side_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\foot_side_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "foot_bottom_tpu_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\foot_bottom_tpu_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "foot_bottom_pla_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\foot_bottom_pla_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "foot_top_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\foot_top_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "neck_left_sheet_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\neck_left_sheet_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "neck_right_sheet_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\neck_right_sheet_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "head_pitch_to_yaw_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\head_pitch_to_yaw_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "head_yaw_to_roll_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\head_yaw_to_roll_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "head_bot_sheet_L",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\head_bot_sheet_L.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "head_bot_sheet_R",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\head_bot_sheet_R.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "head_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\head_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "head_roll_mount_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\head_roll_mount_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "roll_motor_bottom_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\roll_motor_bottom_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "roll_motor_top_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\roll_motor_top_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "right_roll_to_pitch_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\right_roll_to_pitch_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "right_cache_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\right_cache_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "leg_spacer_3",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\leg_spacer_3.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_knee_to_ankle_right_sheet_3",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_knee_to_ankle_right_sheet_3.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_knee_to_ankle_left_sheet_3",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_knee_to_ankle_left_sheet_3.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "leg_spacer_4",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\leg_spacer_4.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_knee_to_ankle_right_sheet_4",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_knee_to_ankle_right_sheet_4.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "left_knee_to_ankle_left_sheet_4",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\left_knee_to_ankle_left_sheet_4.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "foot_side_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\foot_side_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "foot_bottom_tpu_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\foot_bottom_tpu_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "foot_bottom_pla_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\foot_bottom_pla_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "foot_top_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\foot_top_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A15_KW10_cassette_L_toe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A15_KW10_cassette_L_toe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A16_switch_cover_L_toe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A16_switch_cover_L_toe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A17_ground_plunger_L_toe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A17_ground_plunger_L_toe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A15_KW10_cassette_L_heel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A15_KW10_cassette_L_heel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A16_switch_cover_L_heel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A16_switch_cover_L_heel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A17_ground_plunger_L_heel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A17_ground_plunger_L_heel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A15_KW10_cassette_R_toe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A15_KW10_cassette_R_toe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A16_switch_cover_R_toe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A16_switch_cover_R_toe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A17_ground_plunger_R_toe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A17_ground_plunger_R_toe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A15_KW10_cassette_R_heel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A15_KW10_cassette_R_heel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A16_switch_cover_R_heel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A16_switch_cover_R_heel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "A17_ground_plunger_R_heel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\A17_ground_plunger_R_heel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B01_chassis_base",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B01_chassis_base.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B02_side_frame_L",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B02_side_frame_L.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B03_side_cover_L",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B03_side_cover_L.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B02_side_frame_R",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B02_side_frame_R.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B03_side_cover_R",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B03_side_cover_R.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B04_front_fascia",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B04_front_fascia.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B05_rear_service_cover",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B05_rear_service_cover.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B07_lift_off_roof",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B07_lift_off_roof.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B08_BK4200_battery_sled",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B08_BK4200_battery_sled.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B06a_external_power_pod",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B06a_external_power_pod.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B06b_rocker_19p4x13p2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B06b_rocker_19p4x13p2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B19_PDB_insulating_spacer_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B19_PDB_insulating_spacer_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B19_PDB_insulating_spacer_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B19_PDB_insulating_spacer_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B19_PDB_insulating_spacer_3",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B19_PDB_insulating_spacer_3.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B19_PDB_insulating_spacer_4",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B19_PDB_insulating_spacer_4.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B09_power_and_compute_rack",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B09_power_and_compute_rack.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B10_Pi4B_removable_tray",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B10_Pi4B_removable_tray.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B11_SEN0374_side_bridge",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B11_SEN0374_side_bridge.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B12_eye_retainer_R",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B12_eye_retainer_R.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B13_eye_centering_sleeve_45_R",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B13_eye_centering_sleeve_45_R.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B14_eye_diffuser_R",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B14_eye_diffuser_R.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B12_eye_retainer_L",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B12_eye_retainer_L.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B13_eye_centering_sleeve_45_L",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B13_eye_centering_sleeve_45_L.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B14_eye_diffuser_L",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B14_eye_diffuser_L.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B21_matrix_PCB_carrier",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B21_matrix_PCB_carrier.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B22_matrix_bezel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B22_matrix_bezel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B23_matrix_diffuser",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B23_matrix_diffuser.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B24_status_pixel_carrier",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B24_status_pixel_carrier.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "B25_status_pixel_lightpipe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\B25_status_pixel_lightpipe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Adapter_components_envelope",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Adapter_components_envelope.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Battery_rear_connector_keepout",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Battery_rear_connector_keepout.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "BK4200_3S_published_137x44x27",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\BK4200_3S_published_137x44x27.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "DFRobot_SEN0374_PCB",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\DFRobot_SEN0374_PCB.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Fuse_holder_capacity_45x24x24",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Fuse_holder_capacity_45x24x24.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "IMU_header_-132.5",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\IMU_header_-132.5.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "IMU_header_-150.5",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\IMU_header_-150.5.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "KW10_L_heel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\KW10_L_heel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "KW10_L_toe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\KW10_L_toe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "KW10_R_heel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\KW10_R_heel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "KW10_R_toe",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\KW10_R_toe.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "PDB_component_and_XT60_keepout",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\PDB_component_and_XT60_keepout.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "PDB_XT60_reference_PCB",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\PDB_XT60_reference_PCB.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Pi4_Ethernet",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Pi4_Ethernet.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Pi4_GPIO",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Pi4_GPIO.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Pi4_USB2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Pi4_USB2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Pi4_USB3",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Pi4_USB3.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Pi4_USB_C_power",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Pi4_USB_C_power.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Raspberry_Pi_4B_PCB",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Raspberry_Pi_4B_PCB.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "roll_bearing_1",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\roll_bearing_1.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "roll_bearing_2",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\roll_bearing_2.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "roll_bearing_3",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\roll_bearing_3.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_01",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_01.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_02",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_02.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_03",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_03.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_04",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_04.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_05",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_05.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_06",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_06.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_07",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_07.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_08",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_08.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_09",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_09.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_10",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_10.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_11",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_11.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_12",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_12.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_13",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_13.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "ST3215_C018_14",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\ST3215_C018_14.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Status_pixel_required_10x10_carrier",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Status_pixel_required_10x10_carrier.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Switch_terminal_reserved_volume",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Switch_terminal_reserved_volume.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "UBEC_adjustable_capacity",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\UBEC_adjustable_capacity.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "Waveshare_Adapter_A_PCB",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\Waveshare_Adapter_A_PCB.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "WS2812B_2020_pixel",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\WS2812B_2020_pixel.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "WS2812_matrix_PCB_30mm_example",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\WS2812_matrix_PCB_30mm_example.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "WS2812_ring_L",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\WS2812_ring_L.SLDPRT",
+    "status": "saved"
+  },
+  {
+    "part": "WS2812_ring_R",
+    "path": "D:\\Project\\thenar-duck\\cad\\thenar_duck_B\\solidworks\\WS2812_ring_R.SLDPRT",
+    "status": "saved"
+  }
+]

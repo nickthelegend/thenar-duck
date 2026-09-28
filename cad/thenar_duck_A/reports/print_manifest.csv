@@ -1,0 +1,76 @@
+part,quantity,material,size_mm,solid_volume_cm3,print_bed_fits,watertight,notes
+trunk_bottom_1,1,PETG,"[54.36, 108.0, 73.68]",82.56,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+trunk_top_1,1,PETG,"[76.36, 100.72, 41.0]",123.58,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; obsolete electronics shelf removed; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+roll_motor_bottom_1,1,PETG,"[32.0, 30.74, 31.41]",8.5,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+roll_motor_top_1,1,PETG,"[38.0, 28.72, 20.01]",9.14,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+left_roll_to_pitch_1,1,PETG,"[46.9, 86.07, 30.72]",29.31,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+left_cache_1,1,PETG,"[89.97, 40.0, 152.61]",64.61,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+leg_spacer_1,1,PETG,"[28.07, 36.9, 10.0]",7.05,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+left_knee_to_ankle_right_sheet_1,1,PETG,"[30.7, 70.65, 7.2]",6.54,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+left_knee_to_ankle_left_sheet_1,1,PETG,"[30.7, 70.65, 8.45]",8.24,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+leg_spacer_2,1,PETG,"[28.07, 36.9, 10.0]",7.05,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+left_knee_to_ankle_right_sheet_2,1,PETG,"[30.7, 70.65, 7.2]",6.54,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+left_knee_to_ankle_left_sheet_2,1,PETG,"[30.7, 70.65, 8.45]",8.24,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+foot_side_1,1,PETG,"[103.46, 12.0, 46.0]",19.76,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; KW10 cassette clearance/plunger passages added; KW10 cassette clearance/plunger passages added; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+foot_bottom_tpu_1,1,TPU,"[101.93, 40.73, 8.0]",23.16,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained; KW10 cassette clearance/plunger passages added; KW10 cassette clearance/plunger passages added
+foot_bottom_pla_1,1,PETG,"[92.97, 27.7, 8.0]",14.52,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained; KW10 cassette clearance/plunger passages added; KW10 cassette clearance/plunger passages added
+foot_top_1,1,PETG,"[103.47, 34.9, 46.0]",30.64,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; KW10 cassette clearance/plunger passages added; KW10 cassette clearance/plunger passages added; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+neck_left_sheet_1,1,PETG,"[30.72, 57.99, 7.05]",8.04,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+neck_right_sheet_1,1,PETG,"[30.72, 57.99, 5.85]",6.12,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+head_pitch_to_yaw_1,1,PETG,"[31.99, 44.9, 72.0]",13.43,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+head_yaw_to_roll_1,1,PETG,"[87.95, 79.98, 42.2]",29.39,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+head_bot_sheet_L,1,PETG,"[193.8, 95.51, 3.0]",32.88,True,True,"Modified: split at centreline with 0.6mm seam, so panels slide sideways off the assembled neck; existing perimeter fasteners retained"
+head_bot_sheet_R,1,PETG,"[193.8, 95.51, 3.0]",32.88,True,True,"Modified: split at centreline with 0.6mm seam, so panels slide sideways off the assembled neck; existing perimeter fasteners retained"
+head_1,1,PETG,"[206.83, 197.32, 61.1]",248.48,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+head_roll_mount_1,1,PETG,"[40.0, 64.74, 15.1]",13.37,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+roll_motor_bottom_2,1,PETG,"[32.0, 30.74, 31.41]",8.5,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+roll_motor_top_2,1,PETG,"[38.0, 28.72, 20.01]",9.14,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+right_roll_to_pitch_1,1,PETG,"[46.9, 86.07, 30.72]",29.31,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+right_cache_1,1,PETG,"[89.97, 40.0, 152.61]",64.61,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+leg_spacer_3,1,PETG,"[28.07, 36.9, 10.0]",7.05,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+left_knee_to_ankle_right_sheet_3,1,PETG,"[30.7, 70.65, 7.2]",6.52,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+left_knee_to_ankle_left_sheet_3,1,PETG,"[30.7, 70.65, 8.45]",8.26,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+leg_spacer_4,1,PETG,"[28.07, 36.9, 10.0]",7.05,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+left_knee_to_ankle_right_sheet_4,1,PETG,"[30.7, 70.65, 7.2]",6.54,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained
+left_knee_to_ankle_left_sheet_4,1,PETG,"[30.7, 70.65, 8.45]",8.24,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+foot_side_2,1,PETG,"[103.46, 12.0, 46.0]",20.87,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; KW10 cassette clearance/plunger passages added; KW10 cassette clearance/plunger passages added; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+foot_bottom_tpu_2,1,TPU,"[101.93, 40.73, 8.0]",23.16,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained; KW10 cassette clearance/plunger passages added; KW10 cassette clearance/plunger passages added
+foot_bottom_pla_2,1,PETG,"[92.97, 29.75, 8.0]",14.64,True,True,Derived from pinned Open Duck Mini v2; reference facet geometry retained; KW10 cassette clearance/plunger passages added; KW10 cassette clearance/plunger passages added
+foot_top_2,1,PETG,"[103.47, 34.9, 46.0]",29.07,True,True,"Derived from pinned Open Duck Mini v2; reference facet geometry retained; KW10 cassette clearance/plunger passages added; KW10 cassette clearance/plunger passages added; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+A01_chassis_base,1,PETG,"[227.0, 108.0, 8.0]",46.58,True,True,Four M3x6 attach upward into original trunk_bottom inserts; print flat
+A02_side_frame_L,1,PETG,"[227.0, 127.69, 15.0]",34.29,True,True,
+A03_side_cover_L,1,PETG,"[227.0, 126.69, 2.0]",33.25,True,True,
+A02_side_frame_R,1,PETG,"[227.0, 127.69, 15.0]",34.29,True,True,
+A03_side_cover_R,1,PETG,"[227.0, 126.69, 2.0]",33.25,True,True,
+A04_front_fascia,1,PETG,"[126.69, 108.0, 3.0]",37.06,True,True,
+A05_rear_service_cover,1,PETG,"[126.69, 108.0, 7.0]",37.06,True,True,
+A06_switch_plate_BLANK,1,PETG,"[41.0, 64.0, 3.0]",7.77,True,True,HOLD: user switch cutout not provided; replace this small plate after measurement
+A07_lift_off_roof,1,PETG,"[227.0, 108.0, 2.5]",39.2,True,True,Remove four screws for vertical Pi tray extraction
+A08_battery_sled,1,PETG,"[146.0, 70.0, 13.0]",31.81,True,True,Fits envelope <=136 x 52 x 42 plus 2mm pad; two 20mm hook-and-loop straps; dimensions NOT yet confirmed
+A09_power_and_compute_rack,1,PETG,"[128.0, 90.0, 36.0]",42.5,True,True,Install boards and threaded hardware on bench; bolt rack to side frames; Pi is a separate upper tray
+A10_Pi4B_removable_tray,1,PETG,"[98.0, 72.0, 8.0]",16.04,True,True,"85x56 PCB, asymmetric official mounting pattern; M2.5 screws and nuts, no M2.5 heat inserts"
+A11_SEN0374_fixed_IMU_bridge,1,PETG,"[52.0, 90.0, 56.0]",12.22,True,True,2xM2 through fasteners at 16mm pitch on the same PCB edge. IMU does not move when covers/Pi tray are removed.
+A12_eye_retainer_R,1,PETG,"[56.0, 57.0, 2.5]",3.05,True,True,Remove rear cap to insert LED assembly; ring size remains a measurement gate
+A13_eye_depth_spacer_R,1,PETG,"[45.04, 45.4, 24.0]",9.56,True,True,Adjust length after actual ring + diffuser stack measurement
+A14_eye_diffuser_R,1,translucent PETG,"[45.6, 45.6, 1.0]",1.63,True,True,Front retention lip must be validated with actual optical stack
+A12_eye_retainer_L,1,PETG,"[56.0, 57.0, 2.5]",3.05,True,True,Remove rear cap to insert LED assembly; ring size remains a measurement gate
+A13_eye_depth_spacer_L,1,PETG,"[45.04, 45.4, 24.0]",9.56,True,True,Adjust length after actual ring + diffuser stack measurement
+A14_eye_diffuser_L,1,translucent PETG,"[45.6, 45.6, 1.0]",1.63,True,True,Front retention lip must be validated with actual optical stack
+A15_KW10_cassette_L_toe,1,PETG,"[29.0, 27.0, 14.0]",2.71,True,True,Mount inverted switch with M2 bolts through 3mm adjustment slots; bench-calibrate before printing full feet
+A16_switch_cover_L_toe,1,PETG,"[30.0, 27.0, 2.0]",1.52,True,True,"Wire exit, lift-off lid; screw heads remain outside the shell"
+A17_ground_plunger_L_toe,1,PETG,"[8.0, 8.0, 12.25]",0.2,True,True,"Install from underneath before TPU sole. 0.5mm protrusion unloaded, 1.25mm hard-stop travel. Smooth bore and confirm no sticking."
+A15_KW10_cassette_L_heel,1,PETG,"[29.0, 27.0, 14.0]",2.7,True,True,"Mount inverted switch with M2 bolts through 3mm adjustment slots; bench-calibrate before printing full feet; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+A16_switch_cover_L_heel,1,PETG,"[30.0, 27.0, 2.0]",1.52,True,True,"Wire exit, lift-off lid; screw heads remain outside the shell"
+A17_ground_plunger_L_heel,1,PETG,"[8.0, 8.0, 12.25]",0.2,True,True,"Install from underneath before TPU sole. 0.5mm protrusion unloaded, 1.25mm hard-stop travel. Smooth bore and confirm no sticking."
+A15_KW10_cassette_R_toe,1,PETG,"[29.0, 27.0, 14.0]",2.71,True,True,Mount inverted switch with M2 bolts through 3mm adjustment slots; bench-calibrate before printing full feet
+A16_switch_cover_R_toe,1,PETG,"[30.0, 27.0, 2.0]",1.52,True,True,"Wire exit, lift-off lid; screw heads remain outside the shell"
+A17_ground_plunger_R_toe,1,PETG,"[8.0, 8.0, 12.25]",0.2,True,True,"Install from underneath before TPU sole. 0.5mm protrusion unloaded, 1.25mm hard-stop travel. Smooth bore and confirm no sticking."
+A15_KW10_cassette_R_heel,1,PETG,"[29.0, 27.0, 14.0]",2.7,True,True,"Mount inverted switch with M2 bolts through 3mm adjustment slots; bench-calibrate before printing full feet; nominal mating relief for Waveshare vendor servo, physical seating/cable fit required"
+A16_switch_cover_R_heel,1,PETG,"[30.0, 27.0, 2.0]",1.52,True,True,"Wire exit, lift-off lid; screw heads remain outside the shell"
+A17_ground_plunger_R_heel,1,PETG,"[8.0, 8.0, 12.25]",0.2,True,True,"Install from underneath before TPU sole. 0.5mm protrusion unloaded, 1.25mm hard-stop travel. Smooth bore and confirm no sticking."
+C01_M3_insert_and_clearance_coupon,1,PETG,"[105.0, 40.0, 7.0]",28.8,True,True,"Rows: 3.8/3.9/4.0/4.1/4.2 blind insert pilots, then 3.2/3.3/3.4/3.5/3.6 through clearance; left to right"
+C02_6804_fit_32p0,1,PETG,"[40.0, 40.0, 8.0]",3.62,True,True,Bearing slip-fit trial; do not force a tight PETG ring
+C02_6804_fit_32p1,1,PETG,"[40.0, 40.0, 8.0]",3.58,True,True,Bearing slip-fit trial; do not force a tight PETG ring
+C02_6804_fit_32p2,1,PETG,"[40.0, 40.0, 8.0]",3.54,True,True,Bearing slip-fit trial; do not force a tight PETG ring
+C03_servo_case_clearance_gauge,1,PETG,"[56.0, 36.0, 8.0]",6.9,True,True,45.72x25.22mm opening: 0.25mm per side around 45.22x24.72 case. Slide case through before building robot.
+C04_servo_horn_pattern_gauge,1,PETG,"[28.0, 28.0, 3.0]",1.65,True,True,"14mm pitch-circle, four M3 clearance holes; verify supplied horn and actual screw engagement"

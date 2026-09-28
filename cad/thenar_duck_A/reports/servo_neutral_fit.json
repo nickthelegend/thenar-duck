@@ -1,0 +1,5 @@
+{
+  "scope": "Exact solid intersection of vendor servo geometry and printed parts in neutral pose; excludes wires, screw heads, tolerances and moving insertion paths",
+  "pairs_tested": 65,
+  "contacts": []
+}

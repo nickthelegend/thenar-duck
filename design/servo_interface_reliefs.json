@@ -1,0 +1,101 @@
+{
+  "reason": "Actual vendor servo envelope intersects retained brackets and two new heel carriers. Relieve nominal interfering volume without changing joint axes. Verify horn seating and remaining wall strength on physical fit samples.",
+  "interfaces": [
+    {
+      "printed": "trunk_top_1",
+      "servo": "ST3215_C018_02"
+    },
+    {
+      "printed": "trunk_top_1",
+      "servo": "ST3215_C018_03"
+    },
+    {
+      "printed": "roll_motor_top_1",
+      "servo": "ST3215_C018_03"
+    },
+    {
+      "printed": "left_roll_to_pitch_1",
+      "servo": "ST3215_C018_04"
+    },
+    {
+      "printed": "left_roll_to_pitch_1",
+      "servo": "ST3215_C018_05"
+    },
+    {
+      "printed": "left_knee_to_ankle_left_sheet_1",
+      "servo": "ST3215_C018_05"
+    },
+    {
+      "printed": "left_knee_to_ankle_left_sheet_2",
+      "servo": "ST3215_C018_06"
+    },
+    {
+      "printed": "foot_side_1",
+      "servo": "ST3215_C018_07"
+    },
+    {
+      "printed": "foot_top_1",
+      "servo": "ST3215_C018_07"
+    },
+    {
+      "printed": "neck_left_sheet_1",
+      "servo": "ST3215_C018_01"
+    },
+    {
+      "printed": "neck_right_sheet_1",
+      "servo": "ST3215_C018_01"
+    },
+    {
+      "printed": "head_pitch_to_yaw_1",
+      "servo": "ST3215_C018_08"
+    },
+    {
+      "printed": "head_pitch_to_yaw_1",
+      "servo": "ST3215_C018_09"
+    },
+    {
+      "printed": "head_yaw_to_roll_1",
+      "servo": "ST3215_C018_09"
+    },
+    {
+      "printed": "head_yaw_to_roll_1",
+      "servo": "ST3215_C018_10"
+    },
+    {
+      "printed": "roll_motor_top_2",
+      "servo": "ST3215_C018_02"
+    },
+    {
+      "printed": "right_roll_to_pitch_1",
+      "servo": "ST3215_C018_11"
+    },
+    {
+      "printed": "right_roll_to_pitch_1",
+      "servo": "ST3215_C018_12"
+    },
+    {
+      "printed": "left_knee_to_ankle_right_sheet_3",
+      "servo": "ST3215_C018_12"
+    },
+    {
+      "printed": "left_knee_to_ankle_left_sheet_4",
+      "servo": "ST3215_C018_13"
+    },
+    {
+      "printed": "foot_side_2",
+      "servo": "ST3215_C018_14"
+    },
+    {
+      "printed": "foot_top_2",
+      "servo": "ST3215_C018_14"
+    },
+    {
+      "printed": "A15_KW10_cassette_L_heel",
+      "servo": "ST3215_C018_07"
+    },
+    {
+      "printed": "A15_KW10_cassette_R_heel",
+      "servo": "ST3215_C018_14"
+    }
+  ]
+}

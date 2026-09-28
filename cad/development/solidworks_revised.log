@@ -1,0 +1,22 @@
+Importing trunk_top_1
+Importing roll_motor_top_1
+Importing left_roll_to_pitch_1
+Importing left_knee_to_ankle_left_sheet_1
+Importing left_knee_to_ankle_left_sheet_2
+Importing foot_side_1
+Importing foot_top_1
+Importing neck_left_sheet_1
+Importing neck_right_sheet_1
+Importing head_pitch_to_yaw_1
+Importing head_yaw_to_roll_1
+Importing head_1
+Importing roll_motor_top_2
+Importing right_roll_to_pitch_1
+Importing left_knee_to_ankle_right_sheet_3
+Importing left_knee_to_ankle_left_sheet_4
+Importing foot_side_2
+Importing foot_top_2
+Importing A15_KW10_cassette_L_heel
+Importing A15_KW10_cassette_R_heel
+ASSEMBLY SAVED
+{'saved': True, 'component_count': 107, 'expected_count': 107, 'missing': [], 'extra': [], 'first_transform': [1.0, 0.0, 0.0, 0.0, 6.123233995736766e-17, -1.0, 0.0, 1.0, 6.123233995736766e-17, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0]}

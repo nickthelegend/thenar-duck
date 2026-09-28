@@ -1,0 +1,6 @@
+Updated B12_eye_retainer_R
+Updated B12_eye_retainer_L
+Rebuilding printed-parts STEP
+D:\Project\thenar-duck\.venv-cad\Lib\site-packages\cadquery\utils.py:82: FutureWarning: save will be removed in the next release.
+  warn(f"{f.__name__} will be removed in the next release.", FutureWarning)
+DONE

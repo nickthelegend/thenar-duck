@@ -1,0 +1,11 @@
+head_1 B12_eye_retainer_R 0.0
+head_1 B13_eye_centering_sleeve_45_R 0.0
+head_1 B14_eye_diffuser_R 0.0
+head_1 B12_eye_retainer_L 0.0
+head_1 B13_eye_centering_sleeve_45_L 0.0
+head_1 B14_eye_diffuser_L 0.0
+head_1 WS2812_ring_R 0.0
+head_1 WS2812_ring_L 0.0
+B13_eye_centering_sleeve_45_R WS2812_ring_R 0.0
+B13_eye_centering_sleeve_45_L WS2812_ring_L 0.0
+{'scope': 'Exact neutral head/socket/retainer/sleeve/diffuser/default ring intersections; excludes wires and LED packages', 'pairs_tested': 10, 'contacts': []}

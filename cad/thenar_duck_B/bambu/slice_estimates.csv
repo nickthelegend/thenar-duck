@@ -1,0 +1,20 @@
+﻿plate,name,role,objects,filament,grams,hours
+1,TEST FIRST - Blue PETG,coupon,6,3,43.1,2.42
+2,Blue PETG 1,installed,9,3,133.4,7.83
+3,Blue PETG 2,installed,14,3,90.9,5.73
+4,Dark grey PETG 1,installed,4,2,187.0,10.9
+5,Dark grey PETG 2,installed,5,2,142.7,9.9
+6,Dark grey PETG 3,installed,8,2,109.6,6.88
+7,Dark grey PETG 4,installed,6,2,98.2,6.0
+8,Dark grey PETG 5,installed,9,2,131.6,8.35
+9,Dark grey PETG 6,installed,9,2,82.9,5.81
+10,White PETG 1,installed,1,1,289.9,17.25
+11,White PETG 2,installed,2,1,48.9,2.82
+12,White PETG 3,installed,1,1,31.1,1.69
+13,White PETG 4,installed,1,1,31.1,1.69
+14,White PETG 5,installed,2,1,198.1,12.9
+15,White PETG 6,installed,2,1,96.7,6.14
+16,Translucent PETG,installed,4,4,6.9,0.52
+17,Black TPU - external spool,installed,2,5,30.2,2.55
+18,OPTIONAL - Blue PETG,alternative,3,3,42.9,2.43
+19,OPTIONAL - Dark grey PETG,alternative,6,2,118.1,6.3

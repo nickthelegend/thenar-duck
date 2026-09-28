@@ -1,0 +1,27 @@
+﻿joint,quantity,thread,length_mm,clamped_stack_mm,engagement_mm,notes
+Chassis to trunk_bottom,4,M3,6,3,3,Existing inserts open downward; no washer with this length
+Side frames to chassis,6,M3,8,3.5,4.5,0.5 mm flat washer; 4 mm inserts
+Side covers,8,M3,6,2.5,3.5,0.5 mm washers; remove covers for battery strap access
+Front and rear fascias,8,M3,8,3.5,4.5,0.5 mm washers
+Replaceable switch plate,4,M3,8,3.5,4.5,Cutout pending exact switch; 0.5 mm washer
+Roof,4,M3,6,3,3,0.5 mm washers
+Battery sled,4,M3,8,3.5,4.5,0.5mm washer; remove pack before reaching these screws
+Power rack to side ledges,4,M3,8,3.5,4.5,0.5mm washer
+Adapter A PCB,4,M2.5,12,8.6,3.4,4 M2.5 nuts under rack; standoffs 4mm; verify supplied board holes
+Pi4 PCB to tray,4,M2.5,12,9.6,2.4,4 M2.5 nuts; 5mm standoff + 3mm tray + 1.6mm PCB; verify connector-side clearance
+Pi tray to rack pillars,4,M3,8,3.5,4.5,0.5mm washers; four screws exposed at tray corners
+IMU PCB,2,M2,10,7.6,2.4,2 M2 nuts under bridge; 3mm spacers; access with bridge outside robot
+IMU bridge to rack,2,M3,10,6,4,2 M3 nuts under rack; no inserts required
+Eye retaining caps,8,M3,6,3,3,0.5mm washers; access from rear with head bottom removed
+A15_KW10_cassette_L_toe to foot,2,M3,8,3.5,4.5,0.5mm washers; inserts open upward at z16
+A15_KW10_cassette_L_toe switch pins,2,M2,14,11.2,2.8,"Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+A15_KW10_cassette_L_toe cover,2,M3,6,2.5,3.5,0.5mm washers
+A15_KW10_cassette_L_heel to foot,2,M3,8,3.5,4.5,0.5mm washers; inserts open upward at z16
+A15_KW10_cassette_L_heel switch pins,2,M2,14,11.2,2.8,"Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+A15_KW10_cassette_L_heel cover,2,M3,6,2.5,3.5,0.5mm washers
+A15_KW10_cassette_R_toe to foot,2,M3,8,3.5,4.5,0.5mm washers; inserts open upward at z16
+A15_KW10_cassette_R_toe switch pins,2,M2,14,11.2,2.8,"Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+A15_KW10_cassette_R_toe cover,2,M3,6,2.5,3.5,0.5mm washers
+A15_KW10_cassette_R_heel to foot,2,M3,8,3.5,4.5,0.5mm washers; inserts open upward at z16
+A15_KW10_cassette_R_heel switch pins,2,M2,14,11.2,2.8,"Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+A15_KW10_cassette_R_heel cover,2,M3,6,2.5,3.5,0.5mm washers

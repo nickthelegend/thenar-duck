@@ -1,0 +1,1061 @@
+[
+  {
+    "name": "neutral",
+    "joints_degrees": {},
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_yaw_-30.0",
+    "joints_degrees": {
+      "left_hip_yaw": -30.000012857270395
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_yaw_-20.0",
+    "joints_degrees": {
+      "left_hip_yaw": -20.000008571513597
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_yaw_-10.0",
+    "joints_degrees": {
+      "left_hip_yaw": -10.000004285756798
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_yaw_0.0",
+    "joints_degrees": {
+      "left_hip_yaw": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_yaw_10.0",
+    "joints_degrees": {
+      "left_hip_yaw": 10.000004285756798
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_yaw_20.0",
+    "joints_degrees": {
+      "left_hip_yaw": 20.0000085715136
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_yaw_30.0",
+    "joints_degrees": {
+      "left_hip_yaw": 30.000012857270395
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_roll_-25.0",
+    "joints_degrees": {
+      "left_hip_roll": -24.999982066502238
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_roll_-16.7",
+    "joints_degrees": {
+      "left_hip_roll": -16.66665471100149
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_roll_-8.3",
+    "joints_degrees": {
+      "left_hip_roll": -8.333327355500746
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_roll_0.0",
+    "joints_degrees": {
+      "left_hip_roll": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_roll_8.3",
+    "joints_degrees": {
+      "left_hip_roll": 8.333327355500746
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_roll_16.7",
+    "joints_degrees": {
+      "left_hip_roll": 16.666654711001488
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_roll_25.0",
+    "joints_degrees": {
+      "left_hip_roll": 24.999982066502238
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_pitch_-70.0",
+    "joints_degrees": {
+      "left_hip_pitch": -69.99997270451807
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_pitch_-53.3",
+    "joints_degrees": {
+      "left_hip_pitch": -53.333308444219995
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_pitch_-36.7",
+    "joints_degrees": {
+      "left_hip_pitch": -36.66664418392192
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_pitch_-20.0",
+    "joints_degrees": {
+      "left_hip_pitch": -19.99997992362384
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_pitch_-3.3",
+    "joints_degrees": {
+      "left_hip_pitch": -3.333315663325763
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_pitch_13.3",
+    "joints_degrees": {
+      "left_hip_pitch": 13.333348596972314
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_hip_pitch_30.0",
+    "joints_degrees": {
+      "left_hip_pitch": 30.000012857270395
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_knee_-90.0",
+    "joints_degrees": {
+      "left_knee": -90.00021045914971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_knee_-60.0",
+    "joints_degrees": {
+      "left_knee": -60.00014030609981
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_knee_-30.0",
+    "joints_degrees": {
+      "left_knee": -30.000070153049904
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_knee_0.0",
+    "joints_degrees": {
+      "left_knee": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_knee_30.0",
+    "joints_degrees": {
+      "left_knee": 30.000070153049904
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_knee_60.0",
+    "joints_degrees": {
+      "left_knee": 60.00014030609981
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_knee_90.0",
+    "joints_degrees": {
+      "left_knee": 90.00021045914971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_ankle_-90.0",
+    "joints_degrees": {
+      "left_ankle": -90.00021045914971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_ankle_-60.0",
+    "joints_degrees": {
+      "left_ankle": -60.00014030609981
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_ankle_-30.0",
+    "joints_degrees": {
+      "left_ankle": -30.000070153049904
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_ankle_0.0",
+    "joints_degrees": {
+      "left_ankle": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_ankle_30.0",
+    "joints_degrees": {
+      "left_ankle": 30.000070153049904
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_ankle_60.0",
+    "joints_degrees": {
+      "left_ankle": 60.00014030609981
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "left_ankle_90.0",
+    "joints_degrees": {
+      "left_ankle": 90.00021045914971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "neck_pitch_-20.0",
+    "joints_degrees": {
+      "neck_pitch": -20.000008571513593
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "neck_pitch_-5.8",
+    "joints_degrees": {
+      "neck_pitch": -5.833378805192767
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "neck_pitch_8.3",
+    "joints_degrees": {
+      "neck_pitch": 8.333250961128059
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "neck_pitch_22.5",
+    "joints_degrees": {
+      "neck_pitch": 22.499880727448886
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "neck_pitch_36.7",
+    "joints_degrees": {
+      "neck_pitch": 36.66651049376971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "neck_pitch_50.8",
+    "joints_degrees": {
+      "neck_pitch": 50.833140260090545
+    },
+    "result": "CONTACT",
+    "contact_pairs": 13
+  },
+  {
+    "name": "neck_pitch_65.0",
+    "joints_degrees": {
+      "neck_pitch": 64.99977002641137
+    },
+    "result": "CONTACT",
+    "contact_pairs": 31
+  },
+  {
+    "name": "head_pitch_-45.0",
+    "joints_degrees": {
+      "head_pitch": -44.99999063801583
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_pitch_-30.0",
+    "joints_degrees": {
+      "head_pitch": -29.99999375867722
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_pitch_-15.0",
+    "joints_degrees": {
+      "head_pitch": -14.99999687933861
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_pitch_0.0",
+    "joints_degrees": {
+      "head_pitch": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_pitch_15.0",
+    "joints_degrees": {
+      "head_pitch": 14.99999687933861
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_pitch_30.0",
+    "joints_degrees": {
+      "head_pitch": 29.99999375867722
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_pitch_45.0",
+    "joints_degrees": {
+      "head_pitch": 44.99999063801583
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_yaw_-160.0",
+    "joints_degrees": {
+      "head_yaw": -160.0001831636678
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_yaw_-106.7",
+    "joints_degrees": {
+      "head_yaw": -106.66678877577854
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_yaw_-53.3",
+    "joints_degrees": {
+      "head_yaw": -53.33339438788927
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_yaw_0.0",
+    "joints_degrees": {
+      "head_yaw": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_yaw_53.3",
+    "joints_degrees": {
+      "head_yaw": 53.33339438788926
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_yaw_106.7",
+    "joints_degrees": {
+      "head_yaw": 106.66678877577854
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_yaw_160.0",
+    "joints_degrees": {
+      "head_yaw": 160.0001831636678
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_roll_-30.0",
+    "joints_degrees": {
+      "head_roll": -30.000012857270395
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_roll_-20.0",
+    "joints_degrees": {
+      "head_roll": -20.000008571513597
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_roll_-10.0",
+    "joints_degrees": {
+      "head_roll": -10.000004285756798
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_roll_0.0",
+    "joints_degrees": {
+      "head_roll": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_roll_10.0",
+    "joints_degrees": {
+      "head_roll": 10.000004285756798
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_roll_20.0",
+    "joints_degrees": {
+      "head_roll": 20.0000085715136
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "head_roll_30.0",
+    "joints_degrees": {
+      "head_roll": 30.000012857270395
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_yaw_-30.0",
+    "joints_degrees": {
+      "right_hip_yaw": -30.000012857270395
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_yaw_-20.0",
+    "joints_degrees": {
+      "right_hip_yaw": -20.000008571513597
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_yaw_-10.0",
+    "joints_degrees": {
+      "right_hip_yaw": -10.000004285756798
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_yaw_0.0",
+    "joints_degrees": {
+      "right_hip_yaw": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_yaw_10.0",
+    "joints_degrees": {
+      "right_hip_yaw": 10.000004285756798
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_yaw_20.0",
+    "joints_degrees": {
+      "right_hip_yaw": 20.0000085715136
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_yaw_30.0",
+    "joints_degrees": {
+      "right_hip_yaw": 30.000012857270395
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_roll_-25.0",
+    "joints_degrees": {
+      "right_hip_roll": -24.999982066502238
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_roll_-16.7",
+    "joints_degrees": {
+      "right_hip_roll": -16.66665471100149
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_roll_-8.3",
+    "joints_degrees": {
+      "right_hip_roll": -8.333327355500746
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_roll_0.0",
+    "joints_degrees": {
+      "right_hip_roll": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_roll_8.3",
+    "joints_degrees": {
+      "right_hip_roll": 8.333327355500746
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_roll_16.7",
+    "joints_degrees": {
+      "right_hip_roll": 16.666654711001488
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_roll_25.0",
+    "joints_degrees": {
+      "right_hip_roll": 24.999982066502238
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_pitch_-30.0",
+    "joints_degrees": {
+      "right_hip_pitch": -30.000012857270395
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_pitch_-13.3",
+    "joints_degrees": {
+      "right_hip_pitch": -13.333348596972318
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_pitch_3.3",
+    "joints_degrees": {
+      "right_hip_pitch": 3.3333156633257595
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_pitch_20.0",
+    "joints_degrees": {
+      "right_hip_pitch": 19.999979923623837
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_pitch_36.7",
+    "joints_degrees": {
+      "right_hip_pitch": 36.66664418392192
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_pitch_53.3",
+    "joints_degrees": {
+      "right_hip_pitch": 53.333308444219995
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_hip_pitch_70.0",
+    "joints_degrees": {
+      "right_hip_pitch": 69.99997270451807
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_knee_-90.0",
+    "joints_degrees": {
+      "right_knee": -90.00021045914971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_knee_-60.0",
+    "joints_degrees": {
+      "right_knee": -60.00014030609981
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_knee_-30.0",
+    "joints_degrees": {
+      "right_knee": -30.000070153049904
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_knee_0.0",
+    "joints_degrees": {
+      "right_knee": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_knee_30.0",
+    "joints_degrees": {
+      "right_knee": 30.000070153049904
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_knee_60.0",
+    "joints_degrees": {
+      "right_knee": 60.00014030609981
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_knee_90.0",
+    "joints_degrees": {
+      "right_knee": 90.00021045914971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_ankle_-90.0",
+    "joints_degrees": {
+      "right_ankle": -90.00021045914971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_ankle_-60.0",
+    "joints_degrees": {
+      "right_ankle": -60.00014030609981
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_ankle_-30.0",
+    "joints_degrees": {
+      "right_ankle": -30.000070153049904
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_ankle_0.0",
+    "joints_degrees": {
+      "right_ankle": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_ankle_30.0",
+    "joints_degrees": {
+      "right_ankle": 30.000070153049904
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_ankle_60.0",
+    "joints_degrees": {
+      "right_ankle": 60.00014030609981
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "right_ankle_90.0",
+    "joints_degrees": {
+      "right_ankle": 90.00021045914971
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_0",
+    "joints_degrees": {
+      "left_hip_pitch": -0.0,
+      "right_hip_pitch": 0.0,
+      "left_knee": 0.0,
+      "right_knee": -0.0,
+      "left_ankle": -0.0,
+      "right_ankle": 0.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_1",
+    "joints_degrees": {
+      "left_hip_pitch": -4.0,
+      "right_hip_pitch": 4.0,
+      "left_knee": 6.5,
+      "right_knee": -6.5,
+      "left_ankle": -2.5,
+      "right_ankle": 2.5
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_2",
+    "joints_degrees": {
+      "left_hip_pitch": -8.0,
+      "right_hip_pitch": 8.0,
+      "left_knee": 13.0,
+      "right_knee": -13.0,
+      "left_ankle": -5.0,
+      "right_ankle": 5.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_3",
+    "joints_degrees": {
+      "left_hip_pitch": -12.0,
+      "right_hip_pitch": 12.0,
+      "left_knee": 19.5,
+      "right_knee": -19.5,
+      "left_ankle": -7.5,
+      "right_ankle": 7.5
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_4",
+    "joints_degrees": {
+      "left_hip_pitch": -16.0,
+      "right_hip_pitch": 16.0,
+      "left_knee": 26.0,
+      "right_knee": -26.0,
+      "left_ankle": -10.0,
+      "right_ankle": 10.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_5",
+    "joints_degrees": {
+      "left_hip_pitch": -20.0,
+      "right_hip_pitch": 20.0,
+      "left_knee": 32.5,
+      "right_knee": -32.5,
+      "left_ankle": -12.5,
+      "right_ankle": 12.5
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_6",
+    "joints_degrees": {
+      "left_hip_pitch": -24.0,
+      "right_hip_pitch": 24.0,
+      "left_knee": 39.0,
+      "right_knee": -39.0,
+      "left_ankle": -15.0,
+      "right_ankle": 15.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_7",
+    "joints_degrees": {
+      "left_hip_pitch": -28.0,
+      "right_hip_pitch": 28.0,
+      "left_knee": 45.5,
+      "right_knee": -45.5,
+      "left_ankle": -17.5,
+      "right_ankle": 17.5
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_8",
+    "joints_degrees": {
+      "left_hip_pitch": -32.0,
+      "right_hip_pitch": 32.0,
+      "left_knee": 52.0,
+      "right_knee": -52.0,
+      "left_ankle": -20.0,
+      "right_ankle": 20.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_9",
+    "joints_degrees": {
+      "left_hip_pitch": -36.0,
+      "right_hip_pitch": 36.0,
+      "left_knee": 58.5,
+      "right_knee": -58.5,
+      "left_ankle": -22.5,
+      "right_ankle": 22.5
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "crouch_10",
+    "joints_degrees": {
+      "left_hip_pitch": -40.0,
+      "right_hip_pitch": 40.0,
+      "left_knee": 65.0,
+      "right_knee": -65.0,
+      "left_ankle": -25.0,
+      "right_ankle": 25.0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_-15_-10",
+    "joints_degrees": {
+      "neck_pitch": -15,
+      "head_pitch": 5
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_-15_0",
+    "joints_degrees": {
+      "neck_pitch": -15,
+      "head_pitch": 15
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_-15_10",
+    "joints_degrees": {
+      "neck_pitch": -15,
+      "head_pitch": 25
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_0_-10",
+    "joints_degrees": {
+      "neck_pitch": 0,
+      "head_pitch": -10
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_0_0",
+    "joints_degrees": {
+      "neck_pitch": 0,
+      "head_pitch": 0
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_0_10",
+    "joints_degrees": {
+      "neck_pitch": 0,
+      "head_pitch": 10
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_15_-10",
+    "joints_degrees": {
+      "neck_pitch": 15,
+      "head_pitch": -25
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_15_0",
+    "joints_degrees": {
+      "neck_pitch": 15,
+      "head_pitch": -15
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_15_10",
+    "joints_degrees": {
+      "neck_pitch": 15,
+      "head_pitch": -5
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_30_-10",
+    "joints_degrees": {
+      "neck_pitch": 30,
+      "head_pitch": -40
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_30_0",
+    "joints_degrees": {
+      "neck_pitch": 30,
+      "head_pitch": -30
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_30_10",
+    "joints_degrees": {
+      "neck_pitch": 30,
+      "head_pitch": -20
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_45_0",
+    "joints_degrees": {
+      "neck_pitch": 45,
+      "head_pitch": -45
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  },
+  {
+    "name": "coordinated_head_45_10",
+    "joints_degrees": {
+      "neck_pitch": 45,
+      "head_pitch": -35
+    },
+    "result": "no contact found",
+    "contact_pairs": 0
+  }
+]

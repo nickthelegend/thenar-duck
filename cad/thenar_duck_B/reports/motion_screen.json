@@ -1,0 +1,1175 @@
+{
+  "method": "VTK triangle intersection, individual joints sampled at 7 values plus crouches, coordinated head poses, and neutral; 0.1mm broadphase overlap",
+  "limitations": [
+    "Does not prove continuous or untested combined joint clearance",
+    "No flexible cable deformation, screw heads, or tolerances",
+    "New torso parts AND reserved electronics versus moving assemblies; inherited core self-contact not certified"
+  ],
+  "poses_tested": [
+    [
+      "neutral",
+      {}
+    ],
+    [
+      "left_hip_yaw_-30.0",
+      {
+        "left_hip_yaw": -30.000012857270395
+      }
+    ],
+    [
+      "left_hip_yaw_-20.0",
+      {
+        "left_hip_yaw": -20.000008571513597
+      }
+    ],
+    [
+      "left_hip_yaw_-10.0",
+      {
+        "left_hip_yaw": -10.000004285756798
+      }
+    ],
+    [
+      "left_hip_yaw_0.0",
+      {
+        "left_hip_yaw": 0.0
+      }
+    ],
+    [
+      "left_hip_yaw_10.0",
+      {
+        "left_hip_yaw": 10.000004285756798
+      }
+    ],
+    [
+      "left_hip_yaw_20.0",
+      {
+        "left_hip_yaw": 20.0000085715136
+      }
+    ],
+    [
+      "left_hip_yaw_30.0",
+      {
+        "left_hip_yaw": 30.000012857270395
+      }
+    ],
+    [
+      "left_hip_roll_-25.0",
+      {
+        "left_hip_roll": -24.999982066502238
+      }
+    ],
+    [
+      "left_hip_roll_-16.7",
+      {
+        "left_hip_roll": -16.66665471100149
+      }
+    ],
+    [
+      "left_hip_roll_-8.3",
+      {
+        "left_hip_roll": -8.333327355500746
+      }
+    ],
+    [
+      "left_hip_roll_0.0",
+      {
+        "left_hip_roll": 0.0
+      }
+    ],
+    [
+      "left_hip_roll_8.3",
+      {
+        "left_hip_roll": 8.333327355500746
+      }
+    ],
+    [
+      "left_hip_roll_16.7",
+      {
+        "left_hip_roll": 16.666654711001488
+      }
+    ],
+    [
+      "left_hip_roll_25.0",
+      {
+        "left_hip_roll": 24.999982066502238
+      }
+    ],
+    [
+      "left_hip_pitch_-70.0",
+      {
+        "left_hip_pitch": -69.99997270451807
+      }
+    ],
+    [
+      "left_hip_pitch_-53.3",
+      {
+        "left_hip_pitch": -53.333308444219995
+      }
+    ],
+    [
+      "left_hip_pitch_-36.7",
+      {
+        "left_hip_pitch": -36.66664418392192
+      }
+    ],
+    [
+      "left_hip_pitch_-20.0",
+      {
+        "left_hip_pitch": -19.99997992362384
+      }
+    ],
+    [
+      "left_hip_pitch_-3.3",
+      {
+        "left_hip_pitch": -3.333315663325763
+      }
+    ],
+    [
+      "left_hip_pitch_13.3",
+      {
+        "left_hip_pitch": 13.333348596972314
+      }
+    ],
+    [
+      "left_hip_pitch_30.0",
+      {
+        "left_hip_pitch": 30.000012857270395
+      }
+    ],
+    [
+      "left_knee_-90.0",
+      {
+        "left_knee": -90.00021045914971
+      }
+    ],
+    [
+      "left_knee_-60.0",
+      {
+        "left_knee": -60.00014030609981
+      }
+    ],
+    [
+      "left_knee_-30.0",
+      {
+        "left_knee": -30.000070153049904
+      }
+    ],
+    [
+      "left_knee_0.0",
+      {
+        "left_knee": 0.0
+      }
+    ],
+    [
+      "left_knee_30.0",
+      {
+        "left_knee": 30.000070153049904
+      }
+    ],
+    [
+      "left_knee_60.0",
+      {
+        "left_knee": 60.00014030609981
+      }
+    ],
+    [
+      "left_knee_90.0",
+      {
+        "left_knee": 90.00021045914971
+      }
+    ],
+    [
+      "left_ankle_-90.0",
+      {
+        "left_ankle": -90.00021045914971
+      }
+    ],
+    [
+      "left_ankle_-60.0",
+      {
+        "left_ankle": -60.00014030609981
+      }
+    ],
+    [
+      "left_ankle_-30.0",
+      {
+        "left_ankle": -30.000070153049904
+      }
+    ],
+    [
+      "left_ankle_0.0",
+      {
+        "left_ankle": 0.0
+      }
+    ],
+    [
+      "left_ankle_30.0",
+      {
+        "left_ankle": 30.000070153049904
+      }
+    ],
+    [
+      "left_ankle_60.0",
+      {
+        "left_ankle": 60.00014030609981
+      }
+    ],
+    [
+      "left_ankle_90.0",
+      {
+        "left_ankle": 90.00021045914971
+      }
+    ],
+    [
+      "neck_pitch_-20.0",
+      {
+        "neck_pitch": -20.000008571513593
+      }
+    ],
+    [
+      "neck_pitch_-5.8",
+      {
+        "neck_pitch": -5.833378805192767
+      }
+    ],
+    [
+      "neck_pitch_8.3",
+      {
+        "neck_pitch": 8.333250961128059
+      }
+    ],
+    [
+      "neck_pitch_22.5",
+      {
+        "neck_pitch": 22.499880727448886
+      }
+    ],
+    [
+      "neck_pitch_36.7",
+      {
+        "neck_pitch": 36.66651049376971
+      }
+    ],
+    [
+      "neck_pitch_50.8",
+      {
+        "neck_pitch": 50.833140260090545
+      }
+    ],
+    [
+      "neck_pitch_65.0",
+      {
+        "neck_pitch": 64.99977002641137
+      }
+    ],
+    [
+      "head_pitch_-45.0",
+      {
+        "head_pitch": -44.99999063801583
+      }
+    ],
+    [
+      "head_pitch_-30.0",
+      {
+        "head_pitch": -29.99999375867722
+      }
+    ],
+    [
+      "head_pitch_-15.0",
+      {
+        "head_pitch": -14.99999687933861
+      }
+    ],
+    [
+      "head_pitch_0.0",
+      {
+        "head_pitch": 0.0
+      }
+    ],
+    [
+      "head_pitch_15.0",
+      {
+        "head_pitch": 14.99999687933861
+      }
+    ],
+    [
+      "head_pitch_30.0",
+      {
+        "head_pitch": 29.99999375867722
+      }
+    ],
+    [
+      "head_pitch_45.0",
+      {
+        "head_pitch": 44.99999063801583
+      }
+    ],
+    [
+      "head_yaw_-160.0",
+      {
+        "head_yaw": -160.0001831636678
+      }
+    ],
+    [
+      "head_yaw_-106.7",
+      {
+        "head_yaw": -106.66678877577854
+      }
+    ],
+    [
+      "head_yaw_-53.3",
+      {
+        "head_yaw": -53.33339438788927
+      }
+    ],
+    [
+      "head_yaw_0.0",
+      {
+        "head_yaw": 0.0
+      }
+    ],
+    [
+      "head_yaw_53.3",
+      {
+        "head_yaw": 53.33339438788926
+      }
+    ],
+    [
+      "head_yaw_106.7",
+      {
+        "head_yaw": 106.66678877577854
+      }
+    ],
+    [
+      "head_yaw_160.0",
+      {
+        "head_yaw": 160.0001831636678
+      }
+    ],
+    [
+      "head_roll_-30.0",
+      {
+        "head_roll": -30.000012857270395
+      }
+    ],
+    [
+      "head_roll_-20.0",
+      {
+        "head_roll": -20.000008571513597
+      }
+    ],
+    [
+      "head_roll_-10.0",
+      {
+        "head_roll": -10.000004285756798
+      }
+    ],
+    [
+      "head_roll_0.0",
+      {
+        "head_roll": 0.0
+      }
+    ],
+    [
+      "head_roll_10.0",
+      {
+        "head_roll": 10.000004285756798
+      }
+    ],
+    [
+      "head_roll_20.0",
+      {
+        "head_roll": 20.0000085715136
+      }
+    ],
+    [
+      "head_roll_30.0",
+      {
+        "head_roll": 30.000012857270395
+      }
+    ],
+    [
+      "right_hip_yaw_-30.0",
+      {
+        "right_hip_yaw": -30.000012857270395
+      }
+    ],
+    [
+      "right_hip_yaw_-20.0",
+      {
+        "right_hip_yaw": -20.000008571513597
+      }
+    ],
+    [
+      "right_hip_yaw_-10.0",
+      {
+        "right_hip_yaw": -10.000004285756798
+      }
+    ],
+    [
+      "right_hip_yaw_0.0",
+      {
+        "right_hip_yaw": 0.0
+      }
+    ],
+    [
+      "right_hip_yaw_10.0",
+      {
+        "right_hip_yaw": 10.000004285756798
+      }
+    ],
+    [
+      "right_hip_yaw_20.0",
+      {
+        "right_hip_yaw": 20.0000085715136
+      }
+    ],
+    [
+      "right_hip_yaw_30.0",
+      {
+        "right_hip_yaw": 30.000012857270395
+      }
+    ],
+    [
+      "right_hip_roll_-25.0",
+      {
+        "right_hip_roll": -24.999982066502238
+      }
+    ],
+    [
+      "right_hip_roll_-16.7",
+      {
+        "right_hip_roll": -16.66665471100149
+      }
+    ],
+    [
+      "right_hip_roll_-8.3",
+      {
+        "right_hip_roll": -8.333327355500746
+      }
+    ],
+    [
+      "right_hip_roll_0.0",
+      {
+        "right_hip_roll": 0.0
+      }
+    ],
+    [
+      "right_hip_roll_8.3",
+      {
+        "right_hip_roll": 8.333327355500746
+      }
+    ],
+    [
+      "right_hip_roll_16.7",
+      {
+        "right_hip_roll": 16.666654711001488
+      }
+    ],
+    [
+      "right_hip_roll_25.0",
+      {
+        "right_hip_roll": 24.999982066502238
+      }
+    ],
+    [
+      "right_hip_pitch_-30.0",
+      {
+        "right_hip_pitch": -30.000012857270395
+      }
+    ],
+    [
+      "right_hip_pitch_-13.3",
+      {
+        "right_hip_pitch": -13.333348596972318
+      }
+    ],
+    [
+      "right_hip_pitch_3.3",
+      {
+        "right_hip_pitch": 3.3333156633257595
+      }
+    ],
+    [
+      "right_hip_pitch_20.0",
+      {
+        "right_hip_pitch": 19.999979923623837
+      }
+    ],
+    [
+      "right_hip_pitch_36.7",
+      {
+        "right_hip_pitch": 36.66664418392192
+      }
+    ],
+    [
+      "right_hip_pitch_53.3",
+      {
+        "right_hip_pitch": 53.333308444219995
+      }
+    ],
+    [
+      "right_hip_pitch_70.0",
+      {
+        "right_hip_pitch": 69.99997270451807
+      }
+    ],
+    [
+      "right_knee_-90.0",
+      {
+        "right_knee": -90.00021045914971
+      }
+    ],
+    [
+      "right_knee_-60.0",
+      {
+        "right_knee": -60.00014030609981
+      }
+    ],
+    [
+      "right_knee_-30.0",
+      {
+        "right_knee": -30.000070153049904
+      }
+    ],
+    [
+      "right_knee_0.0",
+      {
+        "right_knee": 0.0
+      }
+    ],
+    [
+      "right_knee_30.0",
+      {
+        "right_knee": 30.000070153049904
+      }
+    ],
+    [
+      "right_knee_60.0",
+      {
+        "right_knee": 60.00014030609981
+      }
+    ],
+    [
+      "right_knee_90.0",
+      {
+        "right_knee": 90.00021045914971
+      }
+    ],
+    [
+      "right_ankle_-90.0",
+      {
+        "right_ankle": -90.00021045914971
+      }
+    ],
+    [
+      "right_ankle_-60.0",
+      {
+        "right_ankle": -60.00014030609981
+      }
+    ],
+    [
+      "right_ankle_-30.0",
+      {
+        "right_ankle": -30.000070153049904
+      }
+    ],
+    [
+      "right_ankle_0.0",
+      {
+        "right_ankle": 0.0
+      }
+    ],
+    [
+      "right_ankle_30.0",
+      {
+        "right_ankle": 30.000070153049904
+      }
+    ],
+    [
+      "right_ankle_60.0",
+      {
+        "right_ankle": 60.00014030609981
+      }
+    ],
+    [
+      "right_ankle_90.0",
+      {
+        "right_ankle": 90.00021045914971
+      }
+    ],
+    [
+      "crouch_0",
+      {
+        "left_hip_pitch": -0.0,
+        "right_hip_pitch": 0.0,
+        "left_knee": 0.0,
+        "right_knee": -0.0,
+        "left_ankle": -0.0,
+        "right_ankle": 0.0
+      }
+    ],
+    [
+      "crouch_1",
+      {
+        "left_hip_pitch": -4.0,
+        "right_hip_pitch": 4.0,
+        "left_knee": 6.5,
+        "right_knee": -6.5,
+        "left_ankle": -2.5,
+        "right_ankle": 2.5
+      }
+    ],
+    [
+      "crouch_2",
+      {
+        "left_hip_pitch": -8.0,
+        "right_hip_pitch": 8.0,
+        "left_knee": 13.0,
+        "right_knee": -13.0,
+        "left_ankle": -5.0,
+        "right_ankle": 5.0
+      }
+    ],
+    [
+      "crouch_3",
+      {
+        "left_hip_pitch": -12.0,
+        "right_hip_pitch": 12.0,
+        "left_knee": 19.5,
+        "right_knee": -19.5,
+        "left_ankle": -7.5,
+        "right_ankle": 7.5
+      }
+    ],
+    [
+      "crouch_4",
+      {
+        "left_hip_pitch": -16.0,
+        "right_hip_pitch": 16.0,
+        "left_knee": 26.0,
+        "right_knee": -26.0,
+        "left_ankle": -10.0,
+        "right_ankle": 10.0
+      }
+    ],
+    [
+      "crouch_5",
+      {
+        "left_hip_pitch": -20.0,
+        "right_hip_pitch": 20.0,
+        "left_knee": 32.5,
+        "right_knee": -32.5,
+        "left_ankle": -12.5,
+        "right_ankle": 12.5
+      }
+    ],
+    [
+      "crouch_6",
+      {
+        "left_hip_pitch": -24.0,
+        "right_hip_pitch": 24.0,
+        "left_knee": 39.0,
+        "right_knee": -39.0,
+        "left_ankle": -15.0,
+        "right_ankle": 15.0
+      }
+    ],
+    [
+      "crouch_7",
+      {
+        "left_hip_pitch": -28.0,
+        "right_hip_pitch": 28.0,
+        "left_knee": 45.5,
+        "right_knee": -45.5,
+        "left_ankle": -17.5,
+        "right_ankle": 17.5
+      }
+    ],
+    [
+      "crouch_8",
+      {
+        "left_hip_pitch": -32.0,
+        "right_hip_pitch": 32.0,
+        "left_knee": 52.0,
+        "right_knee": -52.0,
+        "left_ankle": -20.0,
+        "right_ankle": 20.0
+      }
+    ],
+    [
+      "crouch_9",
+      {
+        "left_hip_pitch": -36.0,
+        "right_hip_pitch": 36.0,
+        "left_knee": 58.5,
+        "right_knee": -58.5,
+        "left_ankle": -22.5,
+        "right_ankle": 22.5
+      }
+    ],
+    [
+      "crouch_10",
+      {
+        "left_hip_pitch": -40.0,
+        "right_hip_pitch": 40.0,
+        "left_knee": 65.0,
+        "right_knee": -65.0,
+        "left_ankle": -25.0,
+        "right_ankle": 25.0
+      }
+    ],
+    [
+      "coordinated_head_-15_-10",
+      {
+        "neck_pitch": -15,
+        "head_pitch": 5
+      }
+    ],
+    [
+      "coordinated_head_-15_0",
+      {
+        "neck_pitch": -15,
+        "head_pitch": 15
+      }
+    ],
+    [
+      "coordinated_head_-15_10",
+      {
+        "neck_pitch": -15,
+        "head_pitch": 25
+      }
+    ],
+    [
+      "coordinated_head_0_-10",
+      {
+        "neck_pitch": 0,
+        "head_pitch": -10
+      }
+    ],
+    [
+      "coordinated_head_0_0",
+      {
+        "neck_pitch": 0,
+        "head_pitch": 0
+      }
+    ],
+    [
+      "coordinated_head_0_10",
+      {
+        "neck_pitch": 0,
+        "head_pitch": 10
+      }
+    ],
+    [
+      "coordinated_head_15_-10",
+      {
+        "neck_pitch": 15,
+        "head_pitch": -25
+      }
+    ],
+    [
+      "coordinated_head_15_0",
+      {
+        "neck_pitch": 15,
+        "head_pitch": -15
+      }
+    ],
+    [
+      "coordinated_head_15_10",
+      {
+        "neck_pitch": 15,
+        "head_pitch": -5
+      }
+    ],
+    [
+      "coordinated_head_30_-10",
+      {
+        "neck_pitch": 30,
+        "head_pitch": -40
+      }
+    ],
+    [
+      "coordinated_head_30_0",
+      {
+        "neck_pitch": 30,
+        "head_pitch": -30
+      }
+    ],
+    [
+      "coordinated_head_30_10",
+      {
+        "neck_pitch": 30,
+        "head_pitch": -20
+      }
+    ],
+    [
+      "coordinated_head_45_0",
+      {
+        "neck_pitch": 45,
+        "head_pitch": -45
+      }
+    ],
+    [
+      "coordinated_head_45_10",
+      {
+        "neck_pitch": 45,
+        "head_pitch": -35
+      }
+    ]
+  ],
+  "contacts": [
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "B02_side_frame_L"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "B03_side_cover_L"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "B07_lift_off_roof"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "Pi4_GPIO"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "B02_side_frame_R"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "B03_side_cover_R"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "B07_lift_off_roof"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_1",
+      "fixed": "B02_side_frame_L"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_1",
+      "fixed": "B03_side_cover_L"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_1",
+      "fixed": "B02_side_frame_R"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_1",
+      "fixed": "B03_side_cover_R"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_1",
+      "fixed": "B07_lift_off_roof"
+    },
+    {
+      "pose": "neck_pitch_50.8",
+      "q_degrees": {
+        "neck_pitch": 50.833140260090545
+      },
+      "moving": "head_1",
+      "fixed": "Pi4_GPIO"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_yaw_to_roll_1",
+      "fixed": "B07_lift_off_roof"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "B02_side_frame_L"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "B03_side_cover_L"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "B07_lift_off_roof"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "B10_Pi4B_removable_tray"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "PDB_component_and_XT60_keepout"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "Raspberry_Pi_4B_PCB"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "Pi4_USB2"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_L",
+      "fixed": "Pi4_Ethernet"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "B02_side_frame_R"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "B03_side_cover_R"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "B07_lift_off_roof"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "B10_Pi4B_removable_tray"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "PDB_component_and_XT60_keepout"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "Raspberry_Pi_4B_PCB"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_bot_sheet_R",
+      "fixed": "Pi4_USB3"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "B02_side_frame_L"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "B03_side_cover_L"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "B02_side_frame_R"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "B03_side_cover_R"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "B07_lift_off_roof"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "B10_Pi4B_removable_tray"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "B11_SEN0374_side_bridge"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "PDB_component_and_XT60_keepout"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "UBEC_adjustable_capacity"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "Raspberry_Pi_4B_PCB"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "Pi4_GPIO"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "DFRobot_SEN0374_PCB"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "IMU_header_-150.5"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "head_1",
+      "fixed": "IMU_header_-132.5"
+    },
+    {
+      "pose": "neck_pitch_65.0",
+      "q_degrees": {
+        "neck_pitch": 64.99977002641137
+      },
+      "moving": "roll_bearing_3",
+      "fixed": "B07_lift_off_roof"
+    }
+  ]
+}

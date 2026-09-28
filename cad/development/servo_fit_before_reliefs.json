@@ -1,0 +1,126 @@
+{
+  "scope": "Exact solid intersection of vendor servo geometry and printed parts in neutral pose; excludes wires, screw heads, tolerances and moving insertion paths",
+  "pairs_tested": 65,
+  "contacts": [
+    {
+      "printed": "trunk_top_1",
+      "servo": "ST3215_C018_02",
+      "overlap_mm3": 28.963
+    },
+    {
+      "printed": "trunk_top_1",
+      "servo": "ST3215_C018_03",
+      "overlap_mm3": 28.963
+    },
+    {
+      "printed": "roll_motor_top_1",
+      "servo": "ST3215_C018_03",
+      "overlap_mm3": 31.7217
+    },
+    {
+      "printed": "left_roll_to_pitch_1",
+      "servo": "ST3215_C018_04",
+      "overlap_mm3": 64.1574
+    },
+    {
+      "printed": "left_roll_to_pitch_1",
+      "servo": "ST3215_C018_05",
+      "overlap_mm3": 9.5232
+    },
+    {
+      "printed": "left_knee_to_ankle_left_sheet_1",
+      "servo": "ST3215_C018_05",
+      "overlap_mm3": 24.7895
+    },
+    {
+      "printed": "left_knee_to_ankle_left_sheet_2",
+      "servo": "ST3215_C018_06",
+      "overlap_mm3": 24.7895
+    },
+    {
+      "printed": "foot_side_1",
+      "servo": "ST3215_C018_07",
+      "overlap_mm3": 33.3126
+    },
+    {
+      "printed": "foot_top_1",
+      "servo": "ST3215_C018_07",
+      "overlap_mm3": 24.7899
+    },
+    {
+      "printed": "neck_left_sheet_1",
+      "servo": "ST3215_C018_01",
+      "overlap_mm3": 24.7896
+    },
+    {
+      "printed": "neck_right_sheet_1",
+      "servo": "ST3215_C018_01",
+      "overlap_mm3": 41.9013
+    },
+    {
+      "printed": "head_pitch_to_yaw_1",
+      "servo": "ST3215_C018_08",
+      "overlap_mm3": 61.1441
+    },
+    {
+      "printed": "head_pitch_to_yaw_1",
+      "servo": "ST3215_C018_09",
+      "overlap_mm3": 61.1443
+    },
+    {
+      "printed": "head_yaw_to_roll_1",
+      "servo": "ST3215_C018_09",
+      "overlap_mm3": 5.7563
+    },
+    {
+      "printed": "head_yaw_to_roll_1",
+      "servo": "ST3215_C018_10",
+      "overlap_mm3": 31.7217
+    },
+    {
+      "printed": "roll_motor_top_2",
+      "servo": "ST3215_C018_02",
+      "overlap_mm3": 31.7217
+    },
+    {
+      "printed": "right_roll_to_pitch_1",
+      "servo": "ST3215_C018_11",
+      "overlap_mm3": 64.1574
+    },
+    {
+      "printed": "right_roll_to_pitch_1",
+      "servo": "ST3215_C018_12",
+      "overlap_mm3": 9.5238
+    },
+    {
+      "printed": "left_knee_to_ankle_right_sheet_3",
+      "servo": "ST3215_C018_12",
+      "overlap_mm3": 24.7891
+    },
+    {
+      "printed": "left_knee_to_ankle_left_sheet_4",
+      "servo": "ST3215_C018_13",
+      "overlap_mm3": 24.7895
+    },
+    {
+      "printed": "foot_side_2",
+      "servo": "ST3215_C018_14",
+      "overlap_mm3": 33.3126
+    },
+    {
+      "printed": "foot_top_2",
+      "servo": "ST3215_C018_14",
+      "overlap_mm3": 24.7899
+    },
+    {
+      "printed": "A15_KW10_cassette_L_heel",
+      "servo": "ST3215_C018_07",
+      "overlap_mm3": 11.8404
+    },
+    {
+      "printed": "A15_KW10_cassette_R_heel",
+      "servo": "ST3215_C018_14",
+      "overlap_mm3": 11.5578
+    }
+  ]
+}

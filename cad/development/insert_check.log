@@ -1,0 +1,225 @@
+{
+  "count": 22,
+  "pockets": [
+    {
+      "part": "trunk_bottom_1",
+      "axis": 2,
+      "position_mm": [
+        -9.0,
+        -10.0,
+        172.315
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "trunk_bottom_1",
+      "axis": 2,
+      "position_mm": [
+        -29.0,
+        -10.0,
+        172.315
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "trunk_bottom_1",
+      "axis": 2,
+      "position_mm": [
+        -9.0,
+        10.0,
+        172.315
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "trunk_bottom_1",
+      "axis": 2,
+      "position_mm": [
+        -29.0,
+        10.0,
+        172.315
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "trunk_bottom_1",
+      "axis": 2,
+      "position_mm": [
+        5.28,
+        7.0,
+        240.99
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "trunk_bottom_1",
+      "axis": 2,
+      "position_mm": [
+        5.28,
+        -7.0,
+        240.99
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "foot_bottom_pla_1",
+      "axis": 2,
+      "position_mm": [
+        -5.262,
+        89.4,
+        8.0
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "foot_bottom_pla_1",
+      "axis": 2,
+      "position_mm": [
+        -45.263,
+        89.4,
+        8.0
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        86.0,
+        69.1,
+        373.7
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        -14.939,
+        62.16,
+        373.7
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        61.0,
+        84.1,
+        373.7
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        -87.391,
+        -44.401,
+        373.7
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        -87.391,
+        44.601,
+        373.7
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        -14.939,
+        -61.96,
+        373.7
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        61.0,
+        -83.9,
+        373.7
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        86.0,
+        -68.9,
+        373.7
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        46.0,
+        27.47,
+        420.0
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        76.0,
+        -27.27,
+        420.0
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        76.0,
+        27.47,
+        420.0
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "head_1",
+      "axis": 2,
+      "position_mm": [
+        46.0,
+        -27.27,
+        420.0
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "foot_bottom_pla_2",
+      "axis": 2,
+      "position_mm": [
+        -5.262,
+        -91.8,
+        8.0
+      ],
+      "depth_mm": 5.8
+    },
+    {
+      "part": "foot_bottom_pla_2",
+      "axis": 2,
+      "position_mm": [
+        -45.263,
+        -91.8,
+        8.0
+      ],
+      "depth_mm": 5.8
+    }
+  ]
+}

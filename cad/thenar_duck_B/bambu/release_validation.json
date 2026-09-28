@@ -1,0 +1,474 @@
+{
+  "project": "Thenar_Duck_B_P1S_ALL_PARTS.3mf",
+  "sha256": "8624e12624046245f8490b283e31c98fe2edc13964bf31fcd8a3e0a5840e02da",
+  "native_objects_verified": 94,
+  "plates_verified": 19,
+  "colors_verified": 5,
+  "full_scale": true,
+  "all_plates_sliced": true,
+  "no_remaining_slice_warnings": true,
+  "all_model_support_brim_paths_inside_stock_bed": true,
+  "sources": [
+    "validation/result.json",
+    "validation/plate17_corrected/result.json"
+  ],
+  "note": "Initial full run succeeded; sole warning corrected by flipping TPU pieces and re-slicing plate17. Other plates unchanged. Start/end machine purge paths excluded from deposition bound check. Physical printing and strength not validated.",
+  "plates": [
+    {
+      "plate": 1,
+      "name": "TEST FIRST - Blue PETG",
+      "role": "coupon",
+      "objects": 6,
+      "filament": 3,
+      "grams": 43.1,
+      "hours": 2.42,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.172,
+          0.2
+        ],
+        [
+          227.825,
+          133.825,
+          8.0
+        ]
+      ],
+      "extrusion_segments": 160831,
+      "arc_segments": 54761
+    },
+    {
+      "plate": 2,
+      "name": "Blue PETG 1",
+      "role": "installed",
+      "objects": 9,
+      "filament": 3,
+      "grams": 133.4,
+      "hours": 7.83,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.172,
+          0.2
+        ],
+        [
+          248.828,
+          221.828,
+          30.8
+        ]
+      ],
+      "extrusion_segments": 307487,
+      "arc_segments": 114272
+    },
+    {
+      "plate": 3,
+      "name": "Blue PETG 2",
+      "role": "installed",
+      "objects": 14,
+      "filament": 3,
+      "grams": 90.9,
+      "hours": 5.73,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          32.951,
+          0.2
+        ],
+        [
+          248.828,
+          187.725,
+          46.0
+        ]
+      ],
+      "extrusion_segments": 300604,
+      "arc_segments": 95834
+    },
+    {
+      "plate": 4,
+      "name": "Dark grey PETG 1",
+      "role": "installed",
+      "objects": 4,
+      "filament": 2,
+      "grams": 187.0,
+      "hours": 10.9,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          1.186,
+          34.172,
+          0.2
+        ],
+        [
+          241.828,
+          238.788,
+          73.6
+        ]
+      ],
+      "extrusion_segments": 727412,
+      "arc_segments": 353141
+    },
+    {
+      "plate": 5,
+      "name": "Dark grey PETG 2",
+      "role": "installed",
+      "objects": 5,
+      "filament": 2,
+      "grams": 142.7,
+      "hours": 9.9,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          1.338,
+          33.21,
+          0.2
+        ],
+        [
+          244.116,
+          234.513,
+          72.0
+        ]
+      ],
+      "extrusion_segments": 480600,
+      "arc_segments": 213717
+    },
+    {
+      "plate": 6,
+      "name": "Dark grey PETG 3",
+      "role": "installed",
+      "objects": 8,
+      "filament": 2,
+      "grams": 109.6,
+      "hours": 6.88,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.172,
+          0.2
+        ],
+        [
+          251.044,
+          237.766,
+          46.0
+        ]
+      ],
+      "extrusion_segments": 384759,
+      "arc_segments": 126966
+    },
+    {
+      "plate": 7,
+      "name": "Dark grey PETG 4",
+      "role": "installed",
+      "objects": 6,
+      "filament": 2,
+      "grams": 98.2,
+      "hours": 6.0,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.127,
+          0.2
+        ],
+        [
+          247.318,
+          244.843,
+          10.0
+        ]
+      ],
+      "extrusion_segments": 207432,
+      "arc_segments": 66669
+    },
+    {
+      "plate": 8,
+      "name": "Dark grey PETG 5",
+      "role": "installed",
+      "objects": 9,
+      "filament": 2,
+      "grams": 131.6,
+      "hours": 8.35,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.172,
+          0.2
+        ],
+        [
+          253.097,
+          242.448,
+          42.2
+        ]
+      ],
+      "extrusion_segments": 417580,
+      "arc_segments": 172417
+    },
+    {
+      "plate": 9,
+      "name": "Dark grey PETG 6",
+      "role": "installed",
+      "objects": 9,
+      "filament": 2,
+      "grams": 82.9,
+      "hours": 5.81,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          6.327,
+          34.097,
+          0.2
+        ],
+        [
+          215.468,
+          162.478,
+          31.4
+        ]
+      ],
+      "extrusion_segments": 294500,
+      "arc_segments": 127569
+    },
+    {
+      "plate": 10,
+      "name": "White PETG 1",
+      "role": "installed",
+      "objects": 1,
+      "filament": 1,
+      "grams": 289.9,
+      "hours": 17.25,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          11.019,
+          38.028,
+          0.2
+        ],
+        [
+          227.816,
+          235.288,
+          61.0
+        ]
+      ],
+      "extrusion_segments": 610436,
+      "arc_segments": 237334
+    },
+    {
+      "plate": 11,
+      "name": "White PETG 2",
+      "role": "installed",
+      "objects": 2,
+      "filament": 1,
+      "grams": 48.9,
+      "hours": 2.82,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.172,
+          0.2
+        ],
+        [
+          241.828,
+          225.851,
+          6.0
+        ]
+      ],
+      "extrusion_segments": 68434,
+      "arc_segments": 13871
+    },
+    {
+      "plate": 12,
+      "name": "White PETG 3",
+      "role": "installed",
+      "objects": 1,
+      "filament": 1,
+      "grams": 31.1,
+      "hours": 1.69,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.172,
+          0.2
+        ],
+        [
+          241.828,
+          147.513,
+          2.0
+        ]
+      ],
+      "extrusion_segments": 23864,
+      "arc_segments": 844
+    },
+    {
+      "plate": 13,
+      "name": "White PETG 4",
+      "role": "installed",
+      "objects": 1,
+      "filament": 1,
+      "grams": 31.1,
+      "hours": 1.69,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.172,
+          0.2
+        ],
+        [
+          241.828,
+          147.513,
+          2.0
+        ]
+      ],
+      "extrusion_segments": 23862,
+      "arc_segments": 844
+    },
+    {
+      "plate": 14,
+      "name": "White PETG 5",
+      "role": "installed",
+      "objects": 2,
+      "filament": 1,
+      "grams": 198.1,
+      "hours": 12.9,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.173,
+          34.172,
+          0.2
+        ],
+        [
+          206.757,
+          194.443,
+          40.0
+        ]
+      ],
+      "extrusion_segments": 536080,
+      "arc_segments": 333666
+    },
+    {
+      "plate": 15,
+      "name": "White PETG 6",
+      "role": "installed",
+      "objects": 2,
+      "filament": 1,
+      "grams": 96.7,
+      "hours": 6.14,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          6.51,
+          33.065,
+          0.2
+        ],
+        [
+          238.513,
+          150.704,
+          32.0
+        ]
+      ],
+      "extrusion_segments": 236904,
+      "arc_segments": 110017
+    },
+    {
+      "plate": 16,
+      "name": "Translucent PETG",
+      "role": "installed",
+      "objects": 4,
+      "filament": 4,
+      "grams": 6.9,
+      "hours": 0.52,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.175,
+          34.172,
+          0.2
+        ],
+        [
+          189.622,
+          87.425,
+          7.0
+        ]
+      ],
+      "extrusion_segments": 8339,
+      "arc_segments": 512
+    },
+    {
+      "plate": 17,
+      "name": "Black TPU - external spool",
+      "role": "installed",
+      "objects": 2,
+      "filament": 5,
+      "grams": 30.2,
+      "hours": 2.55,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          11.005,
+          38.249,
+          0.2
+        ],
+        [
+          226.86,
+          78.492,
+          8.0
+        ]
+      ],
+      "extrusion_segments": 83406,
+      "arc_segments": 36208
+    },
+    {
+      "plate": 18,
+      "name": "OPTIONAL - Blue PETG",
+      "role": "alternative",
+      "objects": 3,
+      "filament": 3,
+      "grams": 42.9,
+      "hours": 2.43,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.172,
+          34.172,
+          0.2
+        ],
+        [
+          245.828,
+          115.828,
+          3.0
+        ]
+      ],
+      "extrusion_segments": 63758,
+      "arc_segments": 27879
+    },
+    {
+      "plate": 19,
+      "name": "OPTIONAL - Dark grey PETG",
+      "role": "alternative",
+      "objects": 6,
+      "filament": 2,
+      "grams": 118.1,
+      "hours": 6.3,
+      "warning": "",
+      "deposition_bounds_mm": [
+        [
+          7.175,
+          34.179,
+          0.2
+        ],
+        [
+          241.217,
+          148.683,
+          26.0
+        ]
+      ],
+      "extrusion_segments": 625365,
+      "arc_segments": 223304
+    }
+  ]
+}

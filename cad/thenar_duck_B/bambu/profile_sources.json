@@ -1,0 +1,12 @@
+{
+  "studio": "2.8.2.61",
+  "printer": "Bambu Lab P1S 0.4 nozzle",
+  "source": "D:\\Program Files\\Bambu Studio\\resources\\profiles\\BBL",
+  "user_confirmed_AMS": true,
+  "profiles": [
+    "Bambu Lab P1S 0.4 nozzle",
+    "0.20mm Standard @BBL X1C",
+    "Generic PETG",
+    "Generic TPU"
+  ]
+}

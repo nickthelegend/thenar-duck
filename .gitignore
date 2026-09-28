@@ -1,0 +1,18 @@
+# Machine-specific dependencies and caches
+.venv-cad/
+**/__pycache__/
+*.py[cod]
+cad/development/brep_cache/
+
+# Local Bambu Studio diagnostics and generated machine toolpaths
+cad/thenar_duck_B/bambu/sample/
+cad/thenar_duck_B/bambu/validation/*.gcode
+cad/thenar_duck_B/bambu/validation/*.gcode.tmp
+cad/thenar_duck_B/bambu/validation/**/*.gcode
+cad/thenar_duck_B/bambu/validation/**/*.gcode.tmp
+
+# Temporary editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

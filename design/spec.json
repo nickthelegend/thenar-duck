@@ -1,0 +1,24 @@
+{
+  "revision": "A-fit-review",
+  "units": "mm",
+  "coordinates": "X forward, Y left, Z up; zero at the sole",
+  "kinematics": "Open Duck Mini v2 b23317a485b3cec7d8417f352478778b3475173c, 14 joints, static ears",
+  "battery": {
+    "model": "BK 4200 mAh 3S, owned",
+    "dimensions_confirmed": false,
+    "design_envelope": [136, 52, 42],
+    "note": "Capacity reserved by the tray, NOT claimed dimensions of the user's pack. Includes wrap; lead exit and connector bend space must be checked from the actual battery. Measure before printing tray and torso."
+  },
+  "insert": {"thread": "M3", "length": 4, "pilot_diameter": 4, "pilot_depth": 4.5, "outside_diameter_confirmed": false},
+  "pi": {"model": "4B", "board": [85,56,1.6], "hole_diameter": 2.75, "hole_grid": [58,49], "hole_origin": [3.5,3.5], "source": "https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-mechanical-drawing.pdf"},
+  "imu": {"model": "DFRobot SEN0374 BNO055", "board": [19,21,1.6], "holes": [[2.5,2.5],[2.5,18.5]], "hole_diameter": 2, "source": "https://wiki.dfrobot.com/sen0374"},
+  "servo_adapter": {"model": "Waveshare Bus Servo Adapter (A)", "board": [42,33,1.6], "hole_grid": [37,28], "user_model_confirmation_pending": true},
+  "pdb": {"model": "xcluma XT60 3-4S", "reserved_envelope": [56,44,20], "dimensions_confirmed": false},
+  "ubec": {"model": "ReadytoSky 5V/3A", "reserved_envelope": [45,22,15], "dimensions_confirmed": false},
+  "fuse_holder": {"reserved_envelope": [45,24,24], "model_confirmed": false},
+  "switch": {"replaceable_panel": [44,34,3], "cutout": null, "model_confirmed": false},
+  "eyes": {"model": "16-pixel WS2812 ring", "nominal_diameter": 44, "max_pocket_diameter": 46, "diameter_confirmed": false},
+  "foot_switch": {"model": "KW10-DZ2P075", "body_envelope": [12.8,5.8,6.5], "hole_spacing": 6.5, "hole_diameter": 2, "lever_length": 16.15, "source": "https://www.chinadaier.com/wp-content/uploads/2017/08/Micro-switch.pdf", "physical_confirmation_pending": true},
+  "print": {"machine": "Bambu P1S", "build_volume": [256,256,256], "max_part_dimension": 250, "structural_material": "PETG", "sole_material": "TPU or bonded rubber", "sliding_clearance_per_side": 0.4},
+  "release_status": "NOT RELEASED: actual hardware measurements and print-fit coupons pending"
+}

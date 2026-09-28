@@ -1,0 +1,13 @@
+[
+  {
+    "part": "left_roll_to_pitch_1",
+    "vertex_merge_digits": 4,
+    "filled_microloops": 1,
+    "maximum_repair_extent_mm": 0.01
+  },
+  {
+    "part": "head_1",
+    "vertex_merge_digits": 5,
+    "filled_microloops": 0
+  }
+]

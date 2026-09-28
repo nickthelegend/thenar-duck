@@ -1,0 +1,32 @@
+﻿joint,quantity,thread,length_mm,clamped_stack_mm,engagement_mm,notes
+A15_KW10_cassette_L_toe to foot,2,M3,8,4,4,1mm washers; inserts open upward at z16; 0.5mm pilot-bottom allowance
+A15_KW10_cassette_L_toe switch pins,2,M2,14,11.2,2.8,"Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+A15_KW10_cassette_L_toe cover,2,M3,6,2.5,3.5,0.5mm washers
+A15_KW10_cassette_L_heel to foot,2,M3,8,4,4,1mm washers; inserts open upward at z16; 0.5mm pilot-bottom allowance
+A15_KW10_cassette_L_heel switch pins,2,M2,14,11.2,2.8,"Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+A15_KW10_cassette_L_heel cover,2,M3,6,2.5,3.5,0.5mm washers
+A15_KW10_cassette_R_toe to foot,2,M3,8,4,4,1mm washers; inserts open upward at z16; 0.5mm pilot-bottom allowance
+A15_KW10_cassette_R_toe switch pins,2,M2,14,11.2,2.8,"Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+A15_KW10_cassette_R_toe cover,2,M3,6,2.5,3.5,0.5mm washers
+A15_KW10_cassette_R_heel to foot,2,M3,8,4,4,1mm washers; inserts open upward at z16; 0.5mm pilot-bottom allowance
+A15_KW10_cassette_R_heel switch pins,2,M2,14,11.2,2.8,"Two M2 nuts; adjust height in slots, check continuity; do not over-tighten plastic case"
+A15_KW10_cassette_R_heel cover,2,M3,6,2.5,3.5,0.5mm washers
+Chassis to trunk_bottom,4,M3,6,3,3,Existing inserts open downward; no washer with this length
+Side frames to chassis,6,M3,8,4,4,1 mm flat washer; 4 mm inserts; 0.5mm pilot-bottom allowance
+Side covers,8,M3,6,2.5,3.5,0.5 mm washers; remove covers for battery strap access
+Front and rear fascias,8,M3,8,4,4,1 mm washers; 0.5mm pilot-bottom allowance
+Roof,4,M3,6,3,3,0.5 mm washers
+Battery sled,4,M3,8,4,4,1mm washer; 0.5mm pilot-bottom allowance
+Power pod to rear panel,4,M3,10,7,3,No washer for7mm flange stack
+Power pod lid,4,M3,8,4,4,1mm washer; interchangeable cutout panels; 0.5mm pilot-bottom allowance
+Power rack to side ledges,4,M3,8,4,4,1mm washers; 0.5mm pilot-bottom allowance
+PDB through bolts,4,M3,12,9.1,2.9,Four M3 nuts; 3mm deck+4mm spacer+1.6PCB+0.5washer
+Adapter PCB,4,M2.5,12,8.6,3.4,Four M2.5 nuts;4mm standoffs
+Pi4 PCB to tray,4,M2.5,12,9.6,2.4,Four M2.5 nuts;5mm standoff;0.5mm washers require longer screw
+Pi tray to rack pillars,4,M3,8,4,4,1mm washers; 0.5mm pilot-bottom allowance
+IMU PCB,2,M2,10,7.6,2.4,Two M2 nuts under top bridge;3mm standoffs
+IMU bridge to rack,2,M3,10,6.5,3.5,Two M3 nuts;0.5mm washers; accessible after Pi removal
+Eye retaining caps,8,M3,6,3,3,0.5mm washers
+Matrix PCB carrier,2,M3,8,4,4,1mm washers; insert openings facefront; 0.5mm pilot-bottom allowance
+Matrix bezel,4,M3,8,4,4,1mm washers; 0.5mm pilot-bottom allowance
+Status pixel carrier,2,M3,8,4,4,1mm washers; 0.5mm pilot-bottom allowance

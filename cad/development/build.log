@@ -1,0 +1,42 @@
+Core trunk_bottom_1
+Core trunk_top_1
+Core roll_motor_bottom_1
+Core roll_motor_top_1
+Core left_roll_to_pitch_1
+Core left_cache_1
+Core leg_spacer_1
+Core left_knee_to_ankle_right_sheet_1
+Core left_knee_to_ankle_left_sheet_1
+Core leg_spacer_2
+Core left_knee_to_ankle_right_sheet_2
+Core left_knee_to_ankle_left_sheet_2
+Core foot_side_1
+Core foot_bottom_tpu_1
+Core foot_bottom_pla_1
+Core foot_top_1
+Core neck_left_sheet_1
+Core neck_right_sheet_1
+Core head_pitch_to_yaw_1
+Core head_yaw_to_roll_1
+Core head_bot_sheet_1
+Core head_1
+Core head_roll_mount_1
+Core roll_motor_bottom_2
+Core roll_motor_top_2
+Core right_roll_to_pitch_1
+Core right_cache_1
+Core leg_spacer_3
+Core left_knee_to_ankle_right_sheet_3
+Core left_knee_to_ankle_left_sheet_3
+Core leg_spacer_4
+Core left_knee_to_ankle_right_sheet_4
+Core left_knee_to_ankle_left_sheet_4
+Core foot_side_2
+Core foot_bottom_tpu_2
+Core foot_bottom_pla_2
+Core foot_top_2
+Saving STEP assembly
+D:\Project\thenar-duck\.venv-cad\Lib\site-packages\cadquery\utils.py:82: FutureWarning: save will be removed in the next release.
+  warn(f"{f.__name__} will be removed in the next release.", FutureWarning)
+Rendering assembly
+DONE 72 printed instances

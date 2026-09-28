@@ -1,0 +1,56 @@
+Load core trunk_bottom_1
+Load core trunk_top_1
+Load core roll_motor_bottom_1
+Load core roll_motor_top_1
+Load core left_roll_to_pitch_1
+Load core left_cache_1
+Load core leg_spacer_1
+Load core left_knee_to_ankle_right_sheet_1
+Load core left_knee_to_ankle_left_sheet_1
+Load core leg_spacer_2
+Load core left_knee_to_ankle_right_sheet_2
+Load core left_knee_to_ankle_left_sheet_2
+Load core foot_side_1
+Load core foot_bottom_tpu_1
+Load core foot_bottom_pla_1
+Load core foot_top_1
+Load core neck_left_sheet_1
+Load core neck_right_sheet_1
+Load core head_pitch_to_yaw_1
+Load core head_yaw_to_roll_1
+Load core head_bot_sheet_L
+Load core head_bot_sheet_R
+Load core head_1
+Load core head_roll_mount_1
+Load core roll_motor_bottom_2
+Load core roll_motor_top_2
+Load core right_roll_to_pitch_1
+Load core right_cache_1
+Load core leg_spacer_3
+Load core left_knee_to_ankle_right_sheet_3
+Load core left_knee_to_ankle_left_sheet_3
+Load core leg_spacer_4
+Load core left_knee_to_ankle_right_sheet_4
+Load core left_knee_to_ankle_left_sheet_4
+Load core foot_side_2
+Load core foot_bottom_tpu_2
+Load core foot_bottom_pla_2
+Load core foot_top_2
+Load core A15_KW10_cassette_L_toe
+Load core A16_switch_cover_L_toe
+Load core A17_ground_plunger_L_toe
+Load core A15_KW10_cassette_L_heel
+Load core A16_switch_cover_L_heel
+Load core A17_ground_plunger_L_heel
+Load core A15_KW10_cassette_R_toe
+Load core A16_switch_cover_R_toe
+Load core A17_ground_plunger_R_toe
+Load core A15_KW10_cassette_R_heel
+Load core A16_switch_cover_R_heel
+Load core A17_ground_plunger_R_heel
+Saving STEP assembly
+D:\Project\thenar-duck\.venv-cad\Lib\site-packages\cadquery\utils.py:82: FutureWarning: save will be removed in the next release.
+  warn(f"{f.__name__} will be removed in the next release.", FutureWarning)
+Rendering assembly
+DONE 91 printed instances
+REVISION B COMPLETE

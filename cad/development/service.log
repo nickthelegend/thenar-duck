@@ -1,0 +1,37 @@
+[
+  {
+    "test": "Pi tray lift then rear withdrawal",
+    "removed_first": [
+      "A07_lift_off_roof"
+    ],
+    "positions_sampled": 8,
+    "collisions": [],
+    "scope": "New torso printed parts and nominal hardware envelopes; plugs/cables and moving head are outside this test"
+  },
+  {
+    "test": "Battery rear withdrawal",
+    "removed_first": [
+      "A05_rear_service_cover",
+      "A06_switch_plate_BLANK"
+    ],
+    "positions_sampled": 6,
+    "collisions": [],
+    "scope": "New torso printed parts and nominal hardware envelopes; plugs/cables and moving head are outside this test"
+  },
+  {
+    "test": "IMU bridge lift 35 then slide rear 80 after Pi removal",
+    "removed_first": [
+      "A07_lift_off_roof",
+      "A10_Pi4B_removable_tray",
+      "Pi4_Ethernet",
+      "Pi4_GPIO",
+      "Pi4_USB2",
+      "Pi4_USB3",
+      "Pi4_USB_C_power",
+      "Raspberry_Pi_4B_PCB"
+    ],
+    "positions_sampled": 10,
+    "collisions": [],
+    "scope": "New torso printed parts and nominal hardware envelopes; plugs/cables and moving head are outside this test"
+  }
+]

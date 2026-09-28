@@ -1,0 +1,894 @@
+{
+  "release": "FIT REVIEW ONLY: physical dimensions and fit coupons pending",
+  "active_print_files": 75,
+  "robot_print_files": 69,
+  "coupons": 6,
+  "all_watertight": true,
+  "all_positive_volume": true,
+  "all_fit_256_cube": true,
+  "custom_intersections": [],
+  "removal_paths": [
+    {
+      "test": "Pi tray lift then rear withdrawal",
+      "removed_first": [
+        "A07_lift_off_roof"
+      ],
+      "positions_sampled": 8,
+      "collisions": [],
+      "scope": "New torso printed parts and nominal hardware envelopes; plugs/cables and moving head are outside this test"
+    },
+    {
+      "test": "Battery rear withdrawal",
+      "removed_first": [
+        "A05_rear_service_cover",
+        "A06_switch_plate_BLANK"
+      ],
+      "positions_sampled": 6,
+      "collisions": [],
+      "scope": "New torso printed parts and nominal hardware envelopes; plugs/cables and moving head are outside this test"
+    },
+    {
+      "test": "IMU bridge lift 35 then slide rear 80 after Pi removal",
+      "removed_first": [
+        "A07_lift_off_roof",
+        "A10_Pi4B_removable_tray",
+        "Pi4_Ethernet",
+        "Pi4_GPIO",
+        "Pi4_USB2",
+        "Pi4_USB3",
+        "Pi4_USB_C_power",
+        "Raspberry_Pi_4B_PCB"
+      ],
+      "positions_sampled": 10,
+      "collisions": [],
+      "scope": "New torso printed parts and nominal hardware envelopes; plugs/cables and moving head are outside this test"
+    }
+  ],
+  "motion": {
+    "sampled": 124,
+    "no_contact_found": 120,
+    "contact_poses": {
+      "neck_pitch_36.7": 11,
+      "neck_pitch_50.8": 24,
+      "neck_pitch_65.0": 40,
+      "head_pitch_45.0": 11
+    },
+    "limitations": [
+      "Does not prove continuous or untested combined joint clearance",
+      "No flexible cable deformation, screw heads, or tolerances",
+      "New torso parts AND reserved electronics versus moving assemblies; inherited core self-contact not certified"
+    ]
+  },
+  "files": [
+    {
+      "part": "trunk_bottom_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        54.36,
+        108.0,
+        73.675
+      ]
+    },
+    {
+      "part": "trunk_top_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        76.36,
+        100.72,
+        41.0
+      ]
+    },
+    {
+      "part": "roll_motor_bottom_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        32.0,
+        30.74,
+        31.41
+      ]
+    },
+    {
+      "part": "roll_motor_top_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        38.0,
+        28.72,
+        20.015
+      ]
+    },
+    {
+      "part": "left_roll_to_pitch_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        46.9,
+        86.065,
+        30.72
+      ]
+    },
+    {
+      "part": "left_cache_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        89.968,
+        40.0,
+        152.615
+      ]
+    },
+    {
+      "part": "leg_spacer_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        28.069,
+        36.9,
+        9.997
+      ]
+    },
+    {
+      "part": "left_knee_to_ankle_right_sheet_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.7,
+        70.65,
+        7.2
+      ]
+    },
+    {
+      "part": "left_knee_to_ankle_left_sheet_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.7,
+        70.65,
+        8.45
+      ]
+    },
+    {
+      "part": "leg_spacer_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        28.069,
+        36.9,
+        9.997
+      ]
+    },
+    {
+      "part": "left_knee_to_ankle_right_sheet_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.7,
+        70.65,
+        7.2
+      ]
+    },
+    {
+      "part": "left_knee_to_ankle_left_sheet_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.7,
+        70.65,
+        8.45
+      ]
+    },
+    {
+      "part": "foot_side_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        103.465,
+        12.0,
+        45.995
+      ]
+    },
+    {
+      "part": "foot_bottom_tpu_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        101.933,
+        40.734,
+        8.0
+      ]
+    },
+    {
+      "part": "foot_bottom_pla_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        92.975,
+        27.7,
+        8.0
+      ]
+    },
+    {
+      "part": "foot_top_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        103.467,
+        34.9,
+        45.995
+      ]
+    },
+    {
+      "part": "neck_left_sheet_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.72,
+        57.99,
+        7.05
+      ]
+    },
+    {
+      "part": "neck_right_sheet_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.72,
+        57.99,
+        5.85
+      ]
+    },
+    {
+      "part": "head_pitch_to_yaw_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        31.994,
+        44.9,
+        72.0
+      ]
+    },
+    {
+      "part": "head_yaw_to_roll_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        87.95,
+        79.983,
+        42.2
+      ]
+    },
+    {
+      "part": "head_bot_sheet_L",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        193.8,
+        95.507,
+        3.0
+      ]
+    },
+    {
+      "part": "head_bot_sheet_R",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        193.8,
+        95.507,
+        3.0
+      ]
+    },
+    {
+      "part": "head_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        206.834,
+        197.316,
+        61.1
+      ]
+    },
+    {
+      "part": "head_roll_mount_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        40.0,
+        64.74,
+        15.1
+      ]
+    },
+    {
+      "part": "roll_motor_bottom_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        32.0,
+        30.74,
+        31.41
+      ]
+    },
+    {
+      "part": "roll_motor_top_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        38.0,
+        28.72,
+        20.015
+      ]
+    },
+    {
+      "part": "right_roll_to_pitch_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        46.9,
+        86.065,
+        30.72
+      ]
+    },
+    {
+      "part": "right_cache_1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        89.968,
+        40.0,
+        152.615
+      ]
+    },
+    {
+      "part": "leg_spacer_3",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        28.069,
+        36.9,
+        9.997
+      ]
+    },
+    {
+      "part": "left_knee_to_ankle_right_sheet_3",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.7,
+        70.65,
+        7.2
+      ]
+    },
+    {
+      "part": "left_knee_to_ankle_left_sheet_3",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.7,
+        70.65,
+        8.45
+      ]
+    },
+    {
+      "part": "leg_spacer_4",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        28.069,
+        36.9,
+        9.997
+      ]
+    },
+    {
+      "part": "left_knee_to_ankle_right_sheet_4",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.7,
+        70.65,
+        7.2
+      ]
+    },
+    {
+      "part": "left_knee_to_ankle_left_sheet_4",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.7,
+        70.65,
+        8.45
+      ]
+    },
+    {
+      "part": "foot_side_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        103.465,
+        12.0,
+        45.995
+      ]
+    },
+    {
+      "part": "foot_bottom_tpu_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        101.933,
+        40.734,
+        8.0
+      ]
+    },
+    {
+      "part": "foot_bottom_pla_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        92.975,
+        29.75,
+        8.0
+      ]
+    },
+    {
+      "part": "foot_top_2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        103.467,
+        34.9,
+        45.995
+      ]
+    },
+    {
+      "part": "A01_chassis_base",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        227.0,
+        108.0,
+        8.0
+      ]
+    },
+    {
+      "part": "A02_side_frame_L",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        227.0,
+        127.685,
+        15.0
+      ]
+    },
+    {
+      "part": "A03_side_cover_L",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        227.0,
+        126.685,
+        2.0
+      ]
+    },
+    {
+      "part": "A02_side_frame_R",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        227.0,
+        127.685,
+        15.0
+      ]
+    },
+    {
+      "part": "A03_side_cover_R",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        227.0,
+        126.685,
+        2.0
+      ]
+    },
+    {
+      "part": "A04_front_fascia",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        126.685,
+        108.0,
+        3.0
+      ]
+    },
+    {
+      "part": "A05_rear_service_cover",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        126.685,
+        108.0,
+        7.0
+      ]
+    },
+    {
+      "part": "A06_switch_plate_BLANK",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        41.0,
+        64.0,
+        3.0
+      ]
+    },
+    {
+      "part": "A07_lift_off_roof",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        227.0,
+        108.0,
+        2.5
+      ]
+    },
+    {
+      "part": "A08_battery_sled",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        146.0,
+        70.0,
+        13.0
+      ]
+    },
+    {
+      "part": "A09_power_and_compute_rack",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        128.0,
+        90.0,
+        36.0
+      ]
+    },
+    {
+      "part": "A10_Pi4B_removable_tray",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        98.0,
+        72.0,
+        8.0
+      ]
+    },
+    {
+      "part": "A11_SEN0374_fixed_IMU_bridge",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        52.0,
+        90.0,
+        56.0
+      ]
+    },
+    {
+      "part": "A12_eye_retainer_R",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        56.0,
+        56.997,
+        2.5
+      ]
+    },
+    {
+      "part": "A13_eye_depth_spacer_R",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        45.045,
+        45.395,
+        24.0
+      ]
+    },
+    {
+      "part": "A14_eye_diffuser_R",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        45.6,
+        45.6,
+        1.0
+      ]
+    },
+    {
+      "part": "A12_eye_retainer_L",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        56.0,
+        56.997,
+        2.5
+      ]
+    },
+    {
+      "part": "A13_eye_depth_spacer_L",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        45.045,
+        45.395,
+        24.0
+      ]
+    },
+    {
+      "part": "A14_eye_diffuser_L",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        45.6,
+        45.6,
+        1.0
+      ]
+    },
+    {
+      "part": "A15_KW10_cassette_L_toe",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        29.0,
+        27.0,
+        14.0
+      ]
+    },
+    {
+      "part": "A16_switch_cover_L_toe",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.0,
+        27.0,
+        2.0
+      ]
+    },
+    {
+      "part": "A17_ground_plunger_L_toe",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        8.0,
+        8.0,
+        12.25
+      ]
+    },
+    {
+      "part": "A15_KW10_cassette_L_heel",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        29.0,
+        27.0,
+        14.0
+      ]
+    },
+    {
+      "part": "A16_switch_cover_L_heel",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.0,
+        27.0,
+        2.0
+      ]
+    },
+    {
+      "part": "A17_ground_plunger_L_heel",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        8.0,
+        8.0,
+        12.25
+      ]
+    },
+    {
+      "part": "A15_KW10_cassette_R_toe",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        29.0,
+        27.0,
+        14.0
+      ]
+    },
+    {
+      "part": "A16_switch_cover_R_toe",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.0,
+        27.0,
+        2.0
+      ]
+    },
+    {
+      "part": "A17_ground_plunger_R_toe",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        8.0,
+        8.0,
+        12.25
+      ]
+    },
+    {
+      "part": "A15_KW10_cassette_R_heel",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        29.0,
+        27.0,
+        14.0
+      ]
+    },
+    {
+      "part": "A16_switch_cover_R_heel",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        30.0,
+        27.0,
+        2.0
+      ]
+    },
+    {
+      "part": "A17_ground_plunger_R_heel",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        8.0,
+        8.0,
+        12.25
+      ]
+    },
+    {
+      "part": "C01_M3_insert_and_clearance_coupon",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        105.0,
+        40.0,
+        7.0
+      ]
+    },
+    {
+      "part": "C02_6804_fit_32p0",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        40.0,
+        40.0,
+        8.0
+      ]
+    },
+    {
+      "part": "C02_6804_fit_32p1",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        40.0,
+        40.0,
+        8.0
+      ]
+    },
+    {
+      "part": "C02_6804_fit_32p2",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        40.0,
+        40.0,
+        8.0
+      ]
+    },
+    {
+      "part": "C03_servo_case_clearance_gauge",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        56.0,
+        36.0,
+        8.0
+      ]
+    },
+    {
+      "part": "C04_servo_horn_pattern_gauge",
+      "watertight": true,
+      "positive_volume": true,
+      "fits_256_cube": true,
+      "size_mm": [
+        28.0,
+        28.0,
+        3.0
+      ]
+    }
+  ],
+  "servo_neutral_fit": {
+    "scope": "Exact solid intersection of vendor servo geometry and printed parts in neutral pose; excludes wires, screw heads, tolerances and moving insertion paths",
+    "pairs_tested": 65,
+    "contacts": []
+  }
+}

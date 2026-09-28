@@ -1,0 +1,33 @@
+{
+  "printer": "Bambu Lab P1S",
+  "nozzle_mm": 0.4,
+  "AMS": true,
+  "plates": 19,
+  "objects": 94,
+  "unique_stl_files": 91,
+  "installed_objects": 79,
+  "alternative_objects": 9,
+  "coupon_objects": 6,
+  "scale": 1,
+  "bed_mm": [
+    256,
+    256,
+    250
+  ],
+  "stock_exclusion_mm": [
+    0,
+    0,
+    18,
+    28
+  ],
+  "all_parts_and_reserved_brim_margin_inside": true,
+  "all_padded_footprints_nonoverlapping": true,
+  "filament_roles": {
+    "1": "White PETG",
+    "2": "Dark grey PETG",
+    "3": "Blue PETG",
+    "4": "Translucent PETG",
+    "5": "Black TPU - external spool"
+  },
+  "note": "Geometric placement proof; native slicer validation recorded separately"
+}
